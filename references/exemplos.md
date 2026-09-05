@@ -23,7 +23,7 @@ Use estes exemplos para calibrar formato, intensidade e o que entra em `O que mu
 
 > Oi, pessoal!
 >
-> A primeira versão do novo painel está pronta para testes. Ela vem com melhorias de desempenho e na experiência de uso.
+> Depois das discussões, a primeira versão do novo painel está pronta para testes. Ela vem com melhorias de desempenho e na experiência de uso.
 >
 > Testem até sexta-feira e reportem qualquer problema no canal #painel. Qualquer dúvida, me chamem.
 >
@@ -31,10 +31,11 @@ Use estes exemplos para calibrar formato, intensidade e o que entra em `O que mu
 > Marina
 >
 > ### O que mudou
+>
 > - Comecei pela notícia e cortei a abertura que só anunciava o assunto.
 > - Removi "marco crucial", o contraste "não é apenas um passo técnico" e a "sinergia do time", que não acrescentavam informação.
 > - Tirei os conectivos mecânicos ("Nesse sentido", "Vale ressaltar", "Além disso").
-> - As melhorias ficaram genéricas porque o original não traz números. Se houver tempo de carregamento ou outra medida, vale incluir.
+> - Mantive as melhorias sem acrescentar métricas, que não aparecem no original.
 
 O que este exemplo mostra: a saudação, o "Abraços" e o tom leve são do autor e ficam. A frase sobre melhorias continua vaga porque especificar exigiria inventar; a lacuna vai para `O que mudou`, não para o texto.
 
@@ -58,15 +59,16 @@ O que este exemplo mostra: a saudação, o "Abraços" e o tom leve são do autor
 
 **Saída:**
 
-> Liderança tem pouco a ver com cargo. Aprendi, com o tempo, que quem lidera de verdade escuta, confia e delega, em vez de dar ordens e controlar. Onde isso acontece, o time fica mais engajado, produtivo e feliz.
+> Aprendi, ao longo dos anos, que liderança tem a ver com o impacto de quem lidera, independentemente do cargo. Quem inspira e dá autonomia ao time escuta, confia e delega, em vez de se limitar a dar ordens e controlar. Isso deixa o time mais engajado, produtivo e feliz.
 >
 > #liderança #gestão #carreira
 >
 > ### O que mudou
+>
 > - Reescrevi em vez de editar: quase todas as frases eram contraste binário, pergunta autorrespondida ou frase de efeito, e não sobrava estrutura para aproveitar.
 > - Mantive a afirmação central, a experiência em primeira pessoa e as três atitudes, que são do autor.
-> - Cortei o emoji, a pergunta "O resultado?" e a chamada para comentar.
-> - O post ficou curto porque o original não traz exemplo nem situação. Um caso real do autor daria mais força.
+> - Cortei o emoji, a pergunta "O resultado?" e a chamada genérica para comentar; mantive a defesa de inspirar e dar autonomia ao time.
+> - Mantive as opiniões do autor sem acrescentar exemplos, resultados ou experiências pessoais.
 
 O que este exemplo mostra: reescrever não autoriza inventar um caso, uma métrica ou uma frase de impacto nova. As hashtags ficam porque são convenção da plataforma, não vício de escrita. A tríade "escuta, confia e delega" permanece porque é conteúdo do autor, não ritmo fabricado.
 
@@ -81,17 +83,20 @@ O que este exemplo mostra: reescrever não autoriza inventar um caso, uma métri
 **Saída:**
 
 > ### Padrões encontrados
+>
 > - **Abertura de contexto universal:** "No cenário atual, a inteligência artificial vem transformando profundamente a forma como as empresas operam". Comece pelo fato ou pela decisão específica do texto.
-> - **Atribuição vaga e inflação de importância:** "Especialistas afirmam que a adoção dessas tecnologias representa um marco fundamental". Nomeie a fonte ou corte; diga o que muda em vez de chamar de marco.
-> - **Contraste binário mecânico:** "Não se trata apenas de automatizar processos, mas de repensar modelos de negócio". Afirme o segundo termo diretamente.
+> - **Atribuição vaga e inflação de importância:** "Especialistas afirmam que a adoção dessas tecnologias representa um marco fundamental". Identifique a fonte se ela estiver disponível e descreva o efeito sustentado por ela; caso contrário, sinalize a falta de fonte sem inventá-la.
+> - **Contraste binário mecânico:** "Não se trata apenas de automatizar processos, mas de repensar modelos de negócio". Apresente a automatização e a revisão dos modelos de negócio diretamente, preservando ambas as ideias.
 > - **Análise superficial com gerúndio:** "promovendo uma cultura de inovação". Corte ou substitua por um efeito concreto presente no texto.
 > - **Fecho genérico:** "Em conclusão, o futuro é promissor para quem souber aproveitar essa jornada". Termine no último fato ou próximo passo.
 >
-> Os padrões aparecem juntos em todas as frases, o que pesa mais que qualquer um isolado. O trecho não traz um fato específico que sobreviva à edição; sem dados do autor, a edição vai encurtá-lo bastante. Se quiser, edito a partir daí.
+> Os padrões aparecem juntos, mas não permitem determinar quem escreveu o texto. O trecho contém afirmações amplas e atribuições sem fonte identificada; uma edição pode simplificá-las, sem confirmá-las nem inventar dados.
 
-O que este exemplo mostra: cada achado tem nome, trecho exato e correção em uma frase. Não há porcentagem, veredito de autoria nem reescrita. A oferta de editar vem em uma frase, sem insistir.
+O que este exemplo mostra: cada achado tem nome, trecho exato e correção em uma frase. Não há porcentagem, veredito de autoria nem reescrita. O diagnóstico termina sem oferta automática de editar.
 
 ## Quando não há o que marcar
+
+**Pedido:** "Detecte problemas de estilo, sem reescrever."
 
 **Entrada:**
 

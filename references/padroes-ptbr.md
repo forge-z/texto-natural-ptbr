@@ -2,6 +2,8 @@
 
 Use esta referência como guia de edição, não como lista cega de palavras proibidas. Um traço isolado quase nunca é problema. Procure repetição, acúmulo e falta de função.
 
+Cada exemplo é autocontido: os fatos do “Depois” devem estar no respectivo “Antes”. Não suponha contexto omitido. Prefira uma versão simples ainda genérica a uma frase específica inventada. Preserve também opiniões e ressalvas que tenham função no argumento.
+
 ## Antes de marcar um problema
 
 Não trate como evidência suficiente:
@@ -45,7 +47,7 @@ Procure conjuntos: abstração + exagero + tríade + fecho otimista é mais sign
 **Problema:** a frase manda o leitor achar algo importante sem mostrar o motivo.
 
 **Antes:**
-> O lançamento representa um marco crucial na jornada da empresa e redefine o cenário da inovação nacional.
+> O primeiro produto pago lançado pela empresa no Brasil representa um marco crucial em sua jornada e redefine o cenário da inovação nacional.
 
 **Depois:**
 > É o primeiro produto pago lançado pela empresa no Brasil.
@@ -57,7 +59,7 @@ Use apenas fatos já presentes no texto. Se o original não explica a importânc
 **Sinais:** "vibrante", "deslumbrante", "imperdível", "experiência única", "rica história", "excelência", "solução inovadora", "revolucionário", "transformador", "elevar a experiência", "potencializar resultados".
 
 **Antes:**
-> Localizada no coração vibrante da cidade, a plataforma oferece uma experiência transformadora e intuitiva.
+> Ao reunir pedidos, pagamentos e suporte em uma única tela, a plataforma oferece uma experiência transformadora.
 
 **Depois:**
 > A plataforma reúne pedidos, pagamentos e suporte em uma única tela.
@@ -72,7 +74,7 @@ Promoção pode ser legítima em publicidade. Mesmo nesse gênero, benefícios c
 > A atualização adiciona busca por arquivos, reforçando o compromisso da equipe com a inovação e promovendo mais produtividade.
 
 **Depois:**
-> A atualização adiciona busca por arquivos antigos sem sair do editor.
+> A atualização adiciona busca por arquivos.
 
 Mantenha o gerúndio quando ele descreve uma ação real e simultânea. Corte-o quando simula análise ou atribui intenção sem prova.
 
@@ -81,12 +83,12 @@ Mantenha o gerúndio quando ele descreve uma ação real e simultânea. Corte-o 
 **Sinais:** "especialistas afirmam", "estudos mostram", "o mercado aponta", "muitos acreditam", "segundo diversas fontes", "é amplamente reconhecido".
 
 **Antes:**
-> Especialistas afirmam que a medida terá impacto significativo no setor.
+> Segundo especialistas, a medida deve reduzir o prazo médio em dois dias. A estimativa consta do relatório do Ipea.
 
 **Depois:**
-> Segundo o relatório do Ipea citado no texto, a medida deve reduzir o prazo médio em dois dias.
+> Segundo o relatório do Ipea, a medida deve reduzir o prazo médio em dois dias.
 
-Nomeie a fonte disponível. Se não houver fonte, corte ou sinalize a necessidade de apuração.
+Nomeie apenas a fonte disponível. Se houver só “especialistas afirmam”, não invente a fonte nem retire a atribuição para apresentar a alegação como fato confirmado. Sinalize a necessidade de apuração fora do texto; corte a passagem apenas se for dispensável ao conteúdo.
 
 ### 5. Preenchimento especulativo de lacunas
 
@@ -96,7 +98,7 @@ Nomeie a fonte disponível. Se não houver fonte, corte ou sinalize a necessidad
 > Há poucas informações sobre sua infância, o que sugere que ele sempre preferiu manter um perfil discreto.
 
 **Depois:**
-> As fontes consultadas não trazem informações sobre sua infância.
+> Há poucas informações sobre sua infância.
 
 Ou remova a passagem quando a ausência não for relevante.
 
@@ -105,7 +107,7 @@ Ou remova a passagem quando a ausência não for relevante.
 **Sinais:** "Apesar dos avanços, ainda há desafios", "desafios e perspectivas", "rumo a um futuro promissor", "com iniciativas em andamento, tende a continuar crescendo".
 
 **Antes:**
-> Apesar desses desafios, a organização segue resiliente e preparada para um futuro promissor.
+> Apesar do atendimento ainda levar 18 minutos e precisar ficar mais rápido, a organização segue resiliente e preparada para um futuro promissor.
 
 **Depois:**
 > A organização ainda precisa reduzir o tempo de atendimento, hoje em 18 minutos.
@@ -122,7 +124,7 @@ Use problemas, planos e prazos existentes. Sem eles, encerre no último fato con
 > Não se trata apenas de automatizar tarefas. Trata-se de devolver tempo às pessoas.
 
 **Depois:**
-> A automação reduz o tempo gasto em tarefas repetitivas.
+> Automatizar tarefas libera tempo para as pessoas.
 
 Preserve o contraste quando duas alternativas reais precisam ser diferenciadas. Corte-o quando serve apenas de moldura dramática.
 
@@ -131,17 +133,17 @@ Preserve o contraste quando duas alternativas reais precisam ser diferenciadas. 
 **Sinais:** "Não é ferramenta. Não é processo. É cultura."; "Sem ruído. Sem atraso. Só resultado.".
 
 **Antes:**
-> Não é um chatbot. Não é mais um aplicativo. É uma nova forma de trabalhar.
+> Não é só uma ferramenta. Não é apenas um processo. É uma nova forma de trabalhar: o serviço organiza solicitações e encaminha cada uma para a equipe responsável.
 
 **Depois:**
-> O aplicativo organiza solicitações e encaminha cada uma para a equipe responsável.
+> O serviço organiza solicitações e encaminha cada uma para a equipe responsável.
 
 ### 9. Pergunta retórica autorrespondida
 
 **Sinais:** "O resultado?", "E o melhor?", "Vale a pena? Depende.", "Quer saber por quê?", "Você já parou para pensar...?", "E se eu te dissesse que...?", "Imagine que...", "Pense comigo:".
 
 **Antes:**
-> O resultado? Uma experiência mais fluida para todos.
+> O formulário passou de sete etapas para três. O resultado? Uma experiência mais fluida para todos.
 
 **Depois:**
 > O formulário passou de sete etapas para três.
@@ -153,7 +155,7 @@ Perguntas reais dirigidas ao leitor podem funcionar. Evite a encenação de entr
 **Sinais:** sintagma nominal + dois-pontos + frase curta com efeito de descoberta.
 
 **Antes:**
-> O segredo da velocidade: um cache separado para cada projeto.
+> O segredo do carregamento mais rápido: um cache separado para cada projeto.
 
 **Depois:**
 > Um cache separado para cada projeto reduz o tempo de carregamento.
@@ -168,7 +170,7 @@ Dois-pontos continuam adequados para listas, rótulos, explicações e citaçõe
 > O que ninguém te conta é que distribuição importa mais que produto.
 
 **Depois:**
-> Sem um canal de distribuição, mesmo um bom produto demora a encontrar clientes.
+> Distribuição importa mais que produto.
 
 Faça a afirmação sustentar-se sem bajular autor e leitor como integrantes de um grupo mais esperto. "Sinceramente" e "olha" no meio de uma frase são oralidade comum; o problema é a pausa teatral antes de um ponto banal.
 
@@ -179,7 +181,7 @@ Faça a afirmação sustentar-se sem bajular autor e leitor como integrantes de 
 **Problema:** o texto responde a uma crítica que não aparece em lugar nenhum, em geral como resto de uma versão anterior do argumento.
 
 **Antes:**
-> Não estou dizendo que documentação não importa, e isso não é sobre o tamanho do prompt. A questão é se o agente consegue usar a instrução na hora de agir.
+> Não me entenda mal, e não estou tentando provocar. A questão é se o agente consegue usar a instrução na hora de agir.
 
 **Depois:**
 > A questão é se o agente consegue usar a instrução na hora de agir.
@@ -193,7 +195,7 @@ Remova só a defesa sem dono. Se a ressalva contém uma afirmação real, faça-
 **Problema:** o texto apresenta uma opção que nenhum leitor consideraria, descarta-a em uma oração e nunca mais a menciona.
 
 **Antes:**
-> Os tokens são renovados a cada 24 horas. Uma opção tentadora seria reiniciar o serviço de autenticação por cron, mas isso derrubaria todas as sessões. A renovação acontece em memória e os clientes atualizam sem perceber.
+> Os tokens são renovados a cada 24 horas. Seria fácil chamar isso de revolução, mas seria exagero. A renovação acontece em memória e os clientes atualizam sem perceber.
 
 **Depois:**
 > Os tokens são renovados a cada 24 horas, em memória, e os clientes atualizam sem perceber.
@@ -205,7 +207,7 @@ Uma alternativa rejeitada pode ser legítima. Várias rejeições curtas e desco
 **Sinais:** "X é a linguagem de Y", "X é a moeda de Y", "X não é uma ferramenta, é um espelho", "o futuro não está chegando, já chegou".
 
 **Antes:**
-> Confiança é a moeda da nova economia digital.
+> Confiança é a moeda da nova economia digital: clientes abandonam o pagamento quando não reconhecem o intermediador exibido na tela.
 
 **Depois:**
 > Clientes abandonam o pagamento quando não reconhecem o intermediador exibido na tela.
@@ -215,12 +217,12 @@ Apague o aforismo em vez de substituí-lo por outro mais elegante.
 ### 15. Fragmentos dramáticos em sequência
 
 **Antes:**
-> Nenhuma preferência. Nenhum histórico. Nenhuma nostalgia. As regras tinham mudado.
+> A mudança foi aprovada. Decisão tomada. Questão resolvida. Agora é executar.
 
 **Depois:**
-> O sistema não favorecia padrões anteriores, o que tornou parte das regras antigas menos útil.
+> A mudança foi aprovada. Falta executá-la.
 
-Uma frase curta pode criar ênfase. Várias em sequência deixam o ritmo calculado.
+Uma sequência curta pode criar ênfase deliberada, sobretudo em narrativa ou poesia. Corrija apenas a repetição que encena uma progressão sem acrescentar conteúdo.
 
 ## Vocabulário e sintaxe
 
@@ -237,7 +239,7 @@ Observe acúmulos de:
 Não proíba termos técnicos legítimos. Pergunte se a palavra explica algo ou apenas confere peso.
 
 **Antes:**
-> A solução robusta potencializa a jornada do cliente em um ecossistema cada vez mais dinâmico.
+> A solução robusta potencializa a jornada do cliente: guarda o carrinho por sete dias e permite concluir a compra em outro aparelho.
 
 **Depois:**
 > O sistema guarda o carrinho por sete dias e permite concluir a compra em outro aparelho.
@@ -250,7 +252,7 @@ Não proíba termos técnicos legítimos. Pergunte se a palavra explica algo ou 
 > Nesse contexto, a empresa mudou o cadastro. Além disso, criou uma nova tela. Nesse sentido, os usuários passaram a concluir o processo mais rapidamente.
 
 **Depois:**
-> A empresa simplificou o cadastro e criou uma nova tela. O tempo médio do processo caiu de oito para cinco minutos.
+> A empresa mudou o cadastro e criou uma nova tela. Os usuários passaram a concluir o processo mais rapidamente.
 
 Em texto jurídico ou acadêmico, alguns conectivos são esperados. O problema é o uso mecânico, não a palavra em si.
 
@@ -259,7 +261,7 @@ Em texto jurídico ou acadêmico, alguns conectivos são esperados. O problema �
 **Sinais:** "Vamos explorar", "Neste artigo, veremos", "Antes de mais nada", "Para começar", "Sem mais delongas", "Aqui está tudo o que você precisa saber", "Vamos mergulhar", "Bora entender".
 
 **Antes:**
-> Neste artigo, vamos explorar os principais aspectos da nova política de cache.
+> Neste artigo, vamos explorar os principais aspectos da nova política, que mantém respostas públicas em cache por cinco minutos.
 
 **Depois:**
 > A nova política mantém respostas públicas em cache por cinco minutos.
@@ -273,7 +275,7 @@ O anúncio casual tem o mesmo problema que o formal. "Bora entender como funcion
 **Problema:** o parágrafo de abertura descreve um cenário que serve para qualquer assunto, empresa ou ano, e adia o ponto do texto.
 
 **Antes:**
-> Em um mundo cada vez mais conectado, onde a tecnologia avança a passos largos, a segurança da informação tornou-se uma prioridade para empresas de todos os portes.
+> Em um mundo cada vez mais conectado, onde a tecnologia avança a passos largos, a segurança da informação é uma prioridade. A partir de março, todas as contas administrativas precisam de autenticação em duas etapas.
 
 **Depois:**
 > A partir de março, todas as contas administrativas precisam de autenticação em duas etapas.
@@ -288,7 +290,7 @@ Comece pelo fato, pela decisão ou pelo problema específico do texto. Se o orig
 > Esse último ponto é mais importante do que parece. Em outras palavras, o prazo começa na aprovação.
 
 **Depois:**
-> O prazo começa na aprovação, não no envio do pedido.
+> O prazo começa na aprovação.
 
 Se a importância não estiver evidente, acrescente a consequência disponível no original.
 
@@ -300,7 +302,7 @@ Se a importância não estiver evidente, acrescente a consequência disponível 
 > A plataforma atua como um hub central e conta com quatro módulos.
 
 **Depois:**
-> A plataforma centraliza pedidos, contratos, pagamentos e suporte.
+> A plataforma é uma central com quatro módulos.
 
 "Possui" e "conta com" podem ser adequados. Prefira o verbo que descreve a ação com mais precisão.
 
@@ -312,12 +314,12 @@ Se a importância não estiver evidente, acrescente a consequência disponível 
 > A equipe realizará a implementação da alteração após a realização da validação.
 
 **Depois:**
-> A equipe implementará a alteração depois de validar os dados.
+> A equipe implementará a alteração depois da validação.
 
 ### 23. Voz passiva e frases sem agente
 
 **Antes:**
-> A solicitação será analisada e o retorno será enviado em até dois dias.
+> A solicitação será analisada pela equipe de suporte, que enviará o retorno em até dois dias.
 
 **Depois:**
 > A equipe de suporte analisará a solicitação e responderá em até dois dias.
@@ -332,7 +334,7 @@ Use passiva quando o agente for desconhecido, irrelevante ou deliberadamente omi
 > É importante observar que a medida pode potencialmente vir a gerar algum impacto nos custos.
 
 **Depois:**
-> A medida pode aumentar os custos.
+> A medida pode afetar os custos.
 
 Preserve incerteza real. Não transforme hipótese em certeza.
 
@@ -341,22 +343,22 @@ Preserve incerteza real. Não transforme hipótese em certeza.
 Observe, conforme o público: "endereçar um problema", "performar", "aplicar para uma vaga", "experienciar", "suportar usuários", "realizar um call", "fazer um deep dive".
 
 **Antes:**
-> O time vai endereçar o problema e suportar os clientes impactados.
+> O time vai endereçar o problema e dar suporte aos clientes impactados.
 
 **Depois:**
-> A equipe vai corrigir o problema e atender os clientes afetados.
+> O time vai tratar o problema e atender os clientes afetados.
 
 Mantenha jargão reconhecido pelo público quando a troca soar artificial ou mudar o sentido técnico.
 
 ### 26. Ciclo de sinônimos
 
 **Antes:**
-> O aplicativo envia o pedido. A plataforma valida os dados. A solução apresenta o resultado.
+> O aplicativo, também chamado de plataforma ou solução neste texto, envia o pedido. A plataforma valida os dados. A solução apresenta o resultado.
 
 **Depois:**
 > O aplicativo envia o pedido, valida os dados e apresenta o resultado.
 
-Repita nomes quando eles identificam a mesma coisa. Variação elegante pode criar falsas distinções.
+Repita nomes quando eles identificam a mesma coisa. Variação elegante pode criar falsas distinções. Se o contexto não estabelecer essa identidade, preserve os agentes separados; não presuma que aplicativo e plataforma executam as mesmas funções.
 
 ### 27. Aberturas de frase repetidas
 
@@ -373,10 +375,10 @@ Não proíba a palavra repetida. Corrija a sequência mecânica: junte frases, m
 ### 28. Regra de três forçada
 
 **Antes:**
-> O evento promete inovação, conexão e transformação por meio de palestras, painéis e experiências.
+> O evento terá palestras, painéis e experiências. A programação promete inovação, conexão e transformação.
 
 **Depois:**
-> O evento terá palestras e intervalos para conversa entre os participantes.
+> O evento terá palestras, painéis e experiências.
 
 Use três itens quando existem três itens reais, não para produzir ritmo de apresentação.
 
@@ -388,19 +390,19 @@ Use três itens quando existem três itens reais, não para produzir ritmo de ap
 > O curso aborda tudo, da criatividade à inteligência artificial, da liderança ao futuro do trabalho.
 
 **Depois:**
-> O curso aborda criatividade, inteligência artificial, liderança e trabalho remoto.
+> O curso aborda criatividade, inteligência artificial, liderança e futuro do trabalho.
 
 ### 30. Generalidade portátil
 
 Aplique o teste da portabilidade: a frase poderia ser copiada sem alteração para outra empresa, produto, cidade ou pessoa?
 
 **Antes:**
-> A empresa está comprometida em entregar soluções de qualidade que geram valor para seus clientes.
+> A empresa está comprometida em entregar soluções de qualidade que geram valor para seus clientes. Neste mês, ampliou o suporte para 24 horas aos sábados.
 
 **Depois:**
-> A empresa ampliou o suporte para 24 horas aos sábados.
+> Neste mês, a empresa ampliou o suporte para 24 horas aos sábados.
 
-Se o original não trouxer o fato específico, corte a frase. Não invente especificidade.
+Se o original não trouxer um fato específico, simplifique a afirmação com o que existe. Corte apenas a ornamentação ou a frase redundante; não apague o único conteúdo do texto por ele ser amplo. Não invente especificidade.
 
 ## Ritmo, estrutura e formatação
 
@@ -419,7 +421,7 @@ Quebre a simetria somente onde o conteúdo pedir. Não crie erros ou excentricid
 > - **Segurança:** A proteção foi melhorada.
 
 **Depois:**
-> O sistema passou a carregar em dois segundos e agora exige autenticação em duas etapas para contas administrativas.
+> O sistema ficou mais rápido e teve a proteção melhorada.
 
 Mantenha listas quando elas ajudam consulta, comparação, passos ou requisitos.
 
@@ -453,7 +455,7 @@ Respeite nomes próprios e convenções editoriais do projeto.
 
 ### 35. Travessão como muleta de ritmo
 
-Não há proibição absoluta. Em textos curtos, normalmente nenhum é necessário. Em textos longos, use quando um travessão realmente funciona melhor que ponto, vírgula, dois-pontos ou parênteses. Preserve a frequência da amostra do autor.
+Use travessões quando funcionarem melhor que ponto, vírgula, dois-pontos ou parênteses. Preserve diálogo, apartes e ritmo demonstrados pelo autor, sem impor uma cota por tamanho de texto.
 
 **Antes:**
 > A mudança — anunciada sem aviso — afeta todos os contratos — inclusive os antigos.
@@ -463,20 +465,20 @@ Não há proibição absoluta. Em textos curtos, normalmente nenhum é necessár
 
 ### 36. Documentação presa ao diff
 
-Fora de changelogs, release notes e guias de migração, descreva o sistema atual, não a história do commit.
+Fora de changelogs, release notes e guias de migração, descreva o sistema atual. Preserve contexto histórico quando ele explicar uma limitação, incompatibilidade ou decisão necessária ao leitor. Remova histórico sem função, sem deduzir implementação ou desempenho.
 
 **Antes:**
-> Esta função foi adicionada para substituir a abordagem anterior, que percorria todos os itens.
+> Esta função, que consulta itens em um mapa, foi adicionada para substituir a abordagem anterior, que percorria todos os itens.
 
 **Depois:**
-> A função usa um mapa para fazer consultas em tempo constante.
+> A função consulta itens em um mapa.
 
 ### 37. Artefatos de chatbot e tom servil
 
 **Sinais:** "Ótima pergunta!", "Claro!", "Você está absolutamente certo", "Espero que isso ajude", "Se quiser, posso continuar", "Fico à disposição" quando o texto deveria ser autônomo; e restos do modelo, como "como modelo de linguagem", "até a minha última atualização", "com base nas informações disponíveis", "não tenho acesso a dados em tempo real".
 
 **Antes:**
-> Claro! Aqui está um resumo da política. Espero que ajude. Se quiser, posso detalhar os pontos.
+> Claro! Aqui está um resumo da política. Ela entra em vigor em 1º de julho e se aplica aos contratos renovados depois dessa data. Espero que ajude. Se quiser, posso detalhar os pontos.
 
 **Depois:**
 > A política entra em vigor em 1º de julho e se aplica aos contratos renovados depois dessa data.
@@ -485,16 +487,16 @@ Fora de changelogs, release notes e guias de migração, descreva o sistema atua
 > Até a minha última atualização, a empresa não havia divulgado o número de clientes, mas é provável que esteja na casa dos milhares.
 
 **Depois:**
-> A empresa não divulgou o número de clientes.
+> Até a última atualização disponível, a empresa não havia divulgado o número de clientes.
 
-Em emails de atendimento, cordialidade pode ser necessária. Retire apenas o servilismo automático e as ofertas que não pertencem ao documento. Quando o modelo declara que não encontrou algo e depois chuta, mantenha só a ausência da informação ou corte a frase.
+Em emails de atendimento, cordialidade pode ser necessária. Retire apenas o servilismo automático e as ofertas que não pertencem ao documento. Remova especulação usada para preencher lacunas e preserve limites de data, acesso e evidência. Não encontrar uma informação não prova que ela não existe. Se o período for necessário e não estiver informado, sinalize a lacuna fora do texto.
 
 ### 38. Fecho genérico, recapitulativo ou falsamente profundo
 
 **Sinais:** "Em conclusão", "De modo geral", "O futuro é promissor", "Este é apenas o começo", "A jornada continua", repetição resumida de tudo o que acabou de ser dito; e a chamada automática de rede social: "E você, o que acha?", "Concorda? Comenta aqui", "Compartilhe com quem precisa ler isso", "Salve este post".
 
 **Antes:**
-> Em conclusão, a iniciativa representa um grande passo rumo a um futuro mais inovador, eficiente e sustentável.
+> A próxima etapa é testar o sistema com 30 usuários em setembro. Em conclusão, a iniciativa representa um grande passo rumo a um futuro mais inovador, eficiente e sustentável.
 
 **Depois:**
 > A próxima etapa é testar o sistema com 30 usuários em setembro.
@@ -509,4 +511,4 @@ Uma edição não pode acrescentar detalhes apenas para parecer mais humana. Dat
 - marque a lacuna;
 - ou pergunte ao usuário.
 
-Personalidade pode acrescentar postura ou ritmo quando o gênero permitir, mas nunca fatos novos.
+Trabalhe o ritmo com a voz demonstrada pelo autor. Não acrescente postura, opinião ou experiência pessoal para fabricar personalidade.

@@ -3,10 +3,9 @@
 Skill para editar, reescrever ou auditar textos em português brasileiro sem
 apagar a voz do autor.
 
-Ela combina critérios de edição linguística com um fluxo de trabalho de baixa
-fricção: começa pela entrega, usa passos curtos quando necessário, mantém o
-estado visível entre rodadas e termina em uma ação concreta ou no fim real da
-tarefa.
+A edição começa pela entrega e respeita o pedido de tom, extensão e formato.
+Os exemplos mostram como reduzir excessos sem inventar fatos, apagar ressalvas
+ou transformar informação limitada em certeza.
 
 ## O que faz
 
@@ -38,12 +37,12 @@ O modo padrão é `editar`. Os modos disponíveis são:
 
 | Modo | Entrega |
 | --- | --- |
-| `editar` | Texto final completo e uma seção curta `O que mudou`, com a menor intervenção possível |
-| `reescrever` | Texto refeito quando a edição mínima não resolve; mesmos limites de fatos e voz |
+| `editar` | Texto final com a menor intervenção possível; `O que mudou` quando houver alterações e o formato permitir |
+| `reescrever` | Estrutura e frases refeitas conforme o pedido; mesmos limites de fidelidade |
 | `detectar` | Padrão, trecho exato e correção sugerida |
 | `calibrar voz` | Edição guiada por uma amostra do autor |
-| `arquivo` | Alteração gravada no arquivo e resumo breve |
-| `embutido` | Apenas o texto final, para uso dentro de outra tarefa |
+| `arquivo` | Edição gravada quando pedida; auditoria apenas lê e relata |
+| `embutido` | Segue o contrato da tarefa principal; na edição, apenas o texto final |
 
 ## Critérios de edição
 
@@ -53,17 +52,20 @@ As referências em [`references/`](references/) fazem parte do trabalho:
   exemplos de antes e depois, as ressalvas para não marcar falso positivo e
   os sinais de voz que devem sobreviver. Leitura obrigatória antes de editar.
 - [`avaliacao.md`](references/avaliacao.md) valida fidelidade, voz, clareza,
-  padrões e fricção da entrega. Leitura obrigatória depois de editar.
+  escopo e entrega conforme o modo. Inclui dez casos de regressão para revisar
+  a skill. Confira os critérios aplicáveis antes de entregar.
 - [`exemplos.md`](references/exemplos.md) traz entradas e saídas completas
   nos modos editar, reescrever e detectar. Consulta opcional.
 
 A regra principal é simples: especificidade deve vir do original ou do
-usuário. Se faltar um detalhe, corte, sinalize a lacuna ou pergunte; nunca
-invente nomes, números, datas, fontes, exemplos ou resultados.
+contexto fornecido pelo usuário. Se faltar um detalhe, preserve uma versão
+simples ou sinalize a lacuna; nunca invente fatos. Amostras de voz orientam
+estilo, sem transferir experiências ou informações para o texto editado.
 
-O que a skill não altera: citações de terceiros, código, dados, links,
-termos técnicos corretos, a ortografia e a forma de tratamento do autor e a
-quantidade de informação. Editar não é resumir.
+Sem pedido explícito, a skill preserva citações de terceiros, código, dados,
+links, termos técnicos, voz e quantidade de informação. Pedidos como “mais
+formal”, “resuma” e “só o texto” prevalecem sobre esses padrões de edição.
+Revisão de estilo não confirma a veracidade do texto nem determina autoria.
 
 ## Instalação
 
