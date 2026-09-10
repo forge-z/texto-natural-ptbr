@@ -48,11 +48,11 @@ O modo padrão é `editar`. Os modos disponíveis são:
 
 As referências em [`references/`](references/) fazem parte do trabalho:
 
-- [`padroes-ptbr.md`](references/padroes-ptbr.md) lista 38 padrões com
+- [`padroes-ptbr.md`](references/padroes-ptbr.md) lista 39 padrões com
   exemplos de antes e depois, as ressalvas para não marcar falso positivo e
   os sinais de voz que devem sobreviver. Leitura obrigatória antes de editar.
 - [`avaliacao.md`](references/avaliacao.md) valida fidelidade, voz, clareza,
-  escopo e entrega conforme o modo. Inclui dez casos de regressão para revisar
+  escopo e entrega conforme o modo. Inclui doze casos de regressão para revisar
   a skill. Confira os critérios aplicáveis antes de entregar.
 - [`exemplos.md`](references/exemplos.md) traz entradas e saídas completas
   nos modos editar, reescrever e detectar. Consulta opcional.

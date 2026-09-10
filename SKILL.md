@@ -3,7 +3,7 @@ name: texto-natural-ptbr
 description: Edita, reescreve ou audita textos em português brasileiro para reduzir linguagem genérica, inflada ou mecânica, preservando sentido e voz. Use em pedidos para humanizar um texto, deixá-lo mais natural, direto ou menos corporativo, ou apontar padrões de escrita artificial sem reescrever. Não determina autoria por IA nem substitui checagem factual.
 license: MIT; veja LICENSE e SOURCES.md
 metadata:
-  version: "1.3.0"
+  version: "1.4.0"
   language: "pt-BR"
 ---
 
@@ -72,9 +72,13 @@ No uso como etapa interna de outra tarefa, siga o contrato de saída dela; para 
 
 ## Critérios de edição
 
-Procure acúmulo, repetição e falta de função. Um travessão, uma tríade, uma pergunta retórica ou uma frase formal não são problemas por si só. Preserve recursos que sustentam voz, argumento ou gênero, inclusive listas de requisitos, perguntas reais, cordialidade e chamadas à ação com propósito.
+Um modelo de linguagem escolhe, por padrão, a continuação que serve ao maior número de leitores e assuntos. Quem escreve escolhe para um leitor e um assunto. Daí os hábitos que esta skill corta: encenação no lugar do fato, ritmo por regra, inflação de importância, formatação decorativa e restos de conversa com o chatbot. O vocabulário da moda muda a cada modelo; esses hábitos de estrutura permanecem.
 
-Prefira verbos diretos, sujeitos claros e termos precisos. Use voz ativa quando o agente for conhecido; não invente quem fez a ação. Corte introduções e fechos que apenas repetem o assunto. Varie ritmo e estrutura somente onde isso ajudar a leitura, sem fabricar irregularidade ou neutralizar a voz.
+Procure acúmulo, repetição e falta de função, também na escala do parágrafo: o mesmo contraste partido em duas frases, três exemplos paralelos ou o mesmo fecho depois de cada seção é o mesmo padrão. Uma ocorrência de encenação (contraste “não X, mas Y”, fecho de uma linha que só repete, anúncio do ponto, objeção sem dono) ou de resto de chatbot justifica cortar. Vocabulário, passiva, um travessão ou um conectivo só pesam em conjunto. Preserve recursos que sustentam voz, argumento ou gênero, inclusive listas de requisitos, perguntas reais, cordialidade e chamadas à ação com propósito.
+
+Prefira verbos diretos, sujeitos claros e termos precisos. Use voz ativa quando o agente for conhecido; não invente quem fez a ação. Corte introduções e fechos que apenas repetem o assunto. Cada frase que ficar precisa acrescentar informação que o leitor ainda não tinha. Varie ritmo e estrutura somente onde isso ajudar a leitura, sem fabricar irregularidade ou neutralizar a voz.
+
+Depois de editar, releia em busca dos hábitos que mais sobrevivem à reescrita: contraste “não X, mas Y”, fecho de uma linha, travessão decorativo, tríade forçada e rótulo em negrito.
 
 ## Saída
 
