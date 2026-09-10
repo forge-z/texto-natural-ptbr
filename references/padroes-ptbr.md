@@ -1,6 +1,6 @@
 # Padrões de escrita artificial em português brasileiro
 
-Use esta referência como guia de edição, não como lista cega de palavras proibidas. Um traço isolado quase nunca é problema. Procure repetição, acúmulo e falta de função.
+Use esta referência como guia de edição, não como lista cega de palavras proibidas. Um traço isolado de vocabulário, travessão ou formalidade quase nunca é problema. Encenações e restos de chatbot podem bastar numa ocorrência. Procure repetição, acúmulo e falta de função.
 
 Cada exemplo é autocontido: os fatos do “Depois” devem estar no respectivo “Antes”. Não suponha contexto omitido. Prefira uma versão simples ainda genérica a uma frase específica inventada. Preserve também opiniões e ressalvas que tenham função no argumento.
 
@@ -23,7 +23,9 @@ Não trate como evidência suficiente:
 - ressalvas com dono: avisos legais, limites de escopo, correções e objeções que o texto nomeia e responde;
 - alternativas reais que o leitor consideraria, em documentos de decisão, tutoriais ou argumentações.
 
-Procure conjuntos: abstração + exagero + tríade + fecho otimista é mais significativo que qualquer elemento sozinho.
+Procure conjuntos: abstração + exagero + tríade + fecho otimista é mais significativo que qualquer elemento sozinho. Olhe também o parágrafo inteiro. O mesmo contraste em duas frases, três exemplos paralelos ou o mesmo fecho depois de cada seção é o mesmo padrão em escala maior.
+
+Alguns hábitos justificam corte numa só ocorrência: resto de chatbot, placeholder esquecido, contraste “não X, mas Y” sem crença a corrigir, fecho de uma linha que só repete, anúncio do ponto e objeção sem dono. Vocabulário, passiva, um travessão, um conectivo ou aspas curvas só pesam quando acompanham outros sinais. Um traço isolado quase nunca basta.
 
 ## Sinais de voz humana que devem sobreviver
 
@@ -80,7 +82,7 @@ Mantenha o gerúndio quando ele descreve uma ação real e simultânea. Corte-o 
 
 ### 4. Atribuição vaga
 
-**Sinais:** "especialistas afirmam", "estudos mostram", "o mercado aponta", "muitos acreditam", "segundo diversas fontes", "é amplamente reconhecido".
+**Sinais:** "especialistas afirmam", "estudos mostram", "o mercado aponta", "muitos acreditam", "segundo diversas fontes", "é amplamente reconhecido"; e a lista de prestígio: citar veículos conhecidos ou número de seguidores para provar importância, sem dizer o que foi dito.
 
 **Antes:**
 > Segundo especialistas, a medida deve reduzir o prazo médio em dois dias. A estimativa consta do relatório do Ipea.
@@ -88,9 +90,29 @@ Mantenha o gerúndio quando ele descreve uma ação real e simultânea. Corte-o 
 **Depois:**
 > Segundo o relatório do Ipea, a medida deve reduzir o prazo médio em dois dias.
 
-Nomeie apenas a fonte disponível. Se houver só “especialistas afirmam”, não invente a fonte nem retire a atribuição para apresentar a alegação como fato confirmado. Sinalize a necessidade de apuração fora do texto; corte a passagem apenas se for dispensável ao conteúdo.
+**Antes (lista de prestígio):**
+> Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times. Mantém presença ativa nas redes, com mais de 500 mil seguidores.
 
-### 5. Preenchimento especulativo de lacunas
+**Depois:**
+> Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times.
+
+Nomeie apenas a fonte disponível. Se houver só “especialistas afirmam”, não invente a fonte nem retire a atribuição para apresentar a alegação como fato confirmado. Sinalize a necessidade de apuração fora do texto; corte a passagem apenas se for dispensável ao conteúdo. Na lista de veículos, preserve a citação que o original contextualiza; não invente o que a pessoa disse para justificar o corte.
+
+### 5. Vínculo vago
+
+**Sinais:** "associado a", "em associação com", "ligado a", "em conexão com", "vinculado a", "relacionado a" quando o texto não diz qual é a relação.
+
+**Problema:** a frase afirma que duas coisas se conectam sem dizer como. "Esteve associado à liderança da empresa" esconde se a pessoa era diretora, conselheira ou consultora.
+
+**Antes:**
+> Ele está associado à liderança da orquestra Rajhans, que fundou e rege. Os concertos foram organizados em conexão com as comemorações dos 50 anos do Paquistão.
+
+**Depois:**
+> Ele fundou e rege a orquestra Rajhans. Os concertos fizeram parte das comemorações dos 50 anos do Paquistão.
+
+Nomeie a relação que o original já dá. Se o original não diz o cargo nem o tipo de vínculo, preserve a formulação vaga; não invente o papel.
+
+### 6. Preenchimento especulativo de lacunas
 
 **Sinais:** "informações são escassas", "mantém perfil discreto", "prefere preservar a vida pessoal", "provavelmente", "acredita-se que", "tudo indica que" usados para cobrir ausência de informação.
 
@@ -102,9 +124,9 @@ Nomeie apenas a fonte disponível. Se houver só “especialistas afirmam”, n�
 
 Ou remova a passagem quando a ausência não for relevante.
 
-### 6. Seção automática de desafios e futuro
+### 7. Seção automática de desafios e futuro
 
-**Sinais:** "Apesar dos avanços, ainda há desafios", "desafios e perspectivas", "rumo a um futuro promissor", "com iniciativas em andamento, tende a continuar crescendo".
+**Sinais:** "Apesar dos avanços, ainda há desafios", "desafios e perspectivas", "rumo a um futuro promissor", "com iniciativas em andamento, tende a continuar crescendo", "Prêmios e reconhecimentos", "Desafios e legado".
 
 **Antes:**
 > Apesar do atendimento ainda levar 18 minutos e precisar ficar mais rápido, a organização segue resiliente e preparada para um futuro promissor.
@@ -116,9 +138,11 @@ Use problemas, planos e prazos existentes. Sem eles, encerre no último fato con
 
 ## Enquadramento teatral
 
-### 7. Contraste binário mecânico
+### 8. Contraste binário mecânico
 
-**Sinais:** "não é X, é Y", "não se trata apenas de X, mas de Y", "mais do que X, é Y", "a questão não é X; é Y".
+**Sinais:** "não é X, é Y", "não se trata apenas de X, mas de Y", "mais do que X, é Y", "a questão não é X; é Y", "Y, e não X", "Y em vez de X" quando o negativo não corrige uma crença real; o mesmo contraste partido em duas frases; a cauda negativa recortada (", sem adivinhação", ", sem ruído").
+
+**Problema:** a metade negativa nomeia o que ninguém afirmou, e a positiva parece maior sem acrescentar fato.
 
 **Antes:**
 > Não se trata apenas de automatizar tarefas. Trata-se de devolver tempo às pessoas.
@@ -126,9 +150,15 @@ Use problemas, planos e prazos existentes. Sem eles, encerre no último fato con
 **Depois:**
 > Automatizar tarefas libera tempo para as pessoas.
 
-Preserve o contraste quando duas alternativas reais precisam ser diferenciadas. Corte-o quando serve apenas de moldura dramática.
+**Antes (partido em duas frases):**
+> Isso não significa que todas as escolhas sejam iguais. Significa que nenhum sistema externo confirma qual escolha é a certa.
 
-### 8. Lista negativa e revelação final
+**Depois:**
+> As escolhas não são todas iguais. Nenhum sistema externo confirma qual é a certa.
+
+Preserve o contraste quando duas alternativas reais precisam ser diferenciadas, ou quando a metade negativa corrige uma crença que o leitor de fato tem. Corte-o quando serve apenas de moldura dramática.
+
+### 9. Lista negativa e revelação final
 
 **Sinais:** "Não é ferramenta. Não é processo. É cultura."; "Sem ruído. Sem atraso. Só resultado.".
 
@@ -138,7 +168,7 @@ Preserve o contraste quando duas alternativas reais precisam ser diferenciadas. 
 **Depois:**
 > O serviço organiza solicitações e encaminha cada uma para a equipe responsável.
 
-### 9. Pergunta retórica autorrespondida
+### 10. Pergunta retórica autorrespondida
 
 **Sinais:** "O resultado?", "E o melhor?", "Vale a pena? Depende.", "Quer saber por quê?", "Você já parou para pensar...?", "E se eu te dissesse que...?", "Imagine que...", "Pense comigo:".
 
@@ -150,7 +180,7 @@ Preserve o contraste quando duas alternativas reais precisam ser diferenciadas. 
 
 Perguntas reais dirigidas ao leitor podem funcionar. Evite a encenação de entrevista consigo mesmo.
 
-### 10. Revelação com dois-pontos
+### 11. Revelação com dois-pontos
 
 **Sinais:** sintagma nominal + dois-pontos + frase curta com efeito de descoberta.
 
@@ -162,7 +192,7 @@ Perguntas reais dirigidas ao leitor podem funcionar. Evite a encenação de entr
 
 Dois-pontos continuam adequados para listas, rótulos, explicações e citações.
 
-### 11. Falsa autoridade e cumplicidade
+### 12. Falsa autoridade e cumplicidade
 
 **Sinais:** "o que ninguém te conta", "a parte que todos ignoram", "a verdade incômoda", "o erro que quase todo mundo comete", "vamos ser honestos", "sinceramente?", "olha,", "a real é que"; e a certeza fabricada de "é inegável que", "é fato que", "não há dúvidas de que", "todos sabemos que".
 
@@ -174,7 +204,7 @@ Dois-pontos continuam adequados para listas, rótulos, explicações e citaçõe
 
 Faça a afirmação sustentar-se sem bajular autor e leitor como integrantes de um grupo mais esperto. "Sinceramente" e "olha" no meio de uma frase são oralidade comum; o problema é a pausa teatral antes de um ponto banal.
 
-### 12. Objeção que ninguém levantou
+### 13. Objeção que ninguém levantou
 
 **Sinais:** "Não estou dizendo que", "Não me entenda mal", "Para ser claro,", "Isso não quer dizer que", "Não se trata de negar", "Alguém poderia argumentar que..., mas".
 
@@ -188,7 +218,7 @@ Faça a afirmação sustentar-se sem bajular autor e leitor como integrantes de 
 
 Remova só a defesa sem dono. Se a ressalva contém uma afirmação real, faça-a direta. Mantenha objeções que o texto atribui a alguém ou responde por inteiro.
 
-### 13. Alternativa falsa rejeitada
+### 14. Alternativa falsa rejeitada
 
 **Sinais:** "Uma opção tentadora seria", "Seria fácil simplesmente", "A abordagem óbvia seria", "Você pode pensar que..., mas", "Alguns sugeririam".
 
@@ -202,7 +232,7 @@ Remova só a defesa sem dono. Se a ressalva contém uma afirmação real, faça-
 
 Uma alternativa rejeitada pode ser legítima. Várias rejeições curtas e desconexas são o sinal forte. Pergunte o que cada frase acrescenta; se só registra uma edição anterior, reescreva o parágrafo em torno do ponto principal.
 
-### 14. Frase de efeito fabricada
+### 15. Frase de efeito fabricada
 
 **Sinais:** "X é a linguagem de Y", "X é a moeda de Y", "X não é uma ferramenta, é um espelho", "o futuro não está chegando, já chegou".
 
@@ -214,7 +244,7 @@ Uma alternativa rejeitada pode ser legítima. Várias rejeições curtas e desco
 
 Apague o aforismo em vez de substituí-lo por outro mais elegante.
 
-### 15. Fragmentos dramáticos em sequência
+### 16. Fragmentos dramáticos em sequência
 
 **Antes:**
 > A mudança foi aprovada. Decisão tomada. Questão resolvida. Agora é executar.
@@ -222,15 +252,29 @@ Apague o aforismo em vez de substituí-lo por outro mais elegante.
 **Depois:**
 > A mudança foi aprovada. Falta executá-la.
 
-Uma sequência curta pode criar ênfase deliberada, sobretudo em narrativa ou poesia. Corrija apenas a repetição que encena uma progressão sem acrescentar conteúdo.
+**Antes (fecho de uma linha que só repete):**
+> O cache evita trabalho repetido.
+>
+> É aí que está o ganho.
+>
+> As novas tentativas escondem falhas curtas.
+>
+> É aí que está o ganho.
+
+**Depois:**
+> O cache evita trabalho repetido.
+>
+> As novas tentativas escondem falhas curtas.
+
+Uma sequência curta pode criar ênfase deliberada, sobretudo em narrativa ou poesia. Corrija apenas a repetição que encena uma progressão sem acrescentar conteúdo. O mesmo vale para o parágrafo de uma frase que só pede pausa ("Deixa isso assentar.", "Leia de novo.", "É isso.") e para a palavra em CAIXA ALTA ou com pontos no meio (to.do.dia.).
 
 ## Vocabulário e sintaxe
 
-### 16. Vocabulário genérico de IA e de apresentação corporativa
+### 17. Vocabulário genérico de IA e de apresentação corporativa
 
 Observe acúmulos de:
 
-- crucial, fundamental, estratégico, robusto, assertivo, inovador, transformador;
+- crucial, fundamental, estratégico, robusto, assertivo, inovador, transformador, meticuloso, respaldado;
 - potencializar, impulsionar, fomentar, viabilizar, otimizar, elevar, alavancar;
 - jornada, ecossistema, cenário, contexto, solução, experiência, sinergia;
 - dinâmico, multifacetado, intrincado, em constante evolução, cada vez mais;
@@ -244,7 +288,7 @@ Não proíba termos técnicos legítimos. Pergunte se a palavra explica algo ou 
 **Depois:**
 > O sistema guarda o carrinho por sete dias e permite concluir a compra em outro aparelho.
 
-### 17. Conectivos em excesso
+### 18. Conectivos em excesso
 
 **Sinais:** "Além disso", "Nesse sentido", "Diante desse cenário", "Sob essa perspectiva", "Por conseguinte", "Ademais", "Outrossim", "Vale ressaltar" em quase todo parágrafo.
 
@@ -256,7 +300,7 @@ Não proíba termos técnicos legítimos. Pergunte se a palavra explica algo ou 
 
 Em texto jurídico ou acadêmico, alguns conectivos são esperados. O problema é o uso mecânico, não a palavra em si.
 
-### 18. Aquecimento e anúncio do conteúdo
+### 19. Aquecimento e anúncio do conteúdo
 
 **Sinais:** "Vamos explorar", "Neste artigo, veremos", "Antes de mais nada", "Para começar", "Sem mais delongas", "Aqui está tudo o que você precisa saber", "Vamos mergulhar", "Bora entender".
 
@@ -268,7 +312,7 @@ Em texto jurídico ou acadêmico, alguns conectivos são esperados. O problema �
 
 O anúncio casual tem o mesmo problema que o formal. "Bora entender como funciona o cache" e "Neste artigo, veremos o cache" atrasam o ponto do mesmo jeito.
 
-### 19. Abertura de contexto universal
+### 20. Abertura de contexto universal
 
 **Sinais:** "No mundo atual", "Nos dias de hoje", "Em um mundo cada vez mais conectado", "Na era digital", "Com o avanço da tecnologia", "Em tempos de", "No cenário competitivo atual", "Ao longo dos anos".
 
@@ -282,7 +326,7 @@ O anúncio casual tem o mesmo problema que o formal. "Bora entender como funcion
 
 Comece pelo fato, pela decisão ou pelo problema específico do texto. Se o original não tem um, o contexto universal não vai compensar a falta.
 
-### 20. Metacomentário interpretativo
+### 21. Metacomentário interpretativo
 
 **Sinais:** "Esse ponto é importante", "A principal conclusão é", "Como podemos ver", "Essa distinção faz toda a diferença", "Em outras palavras" quando apenas repete.
 
@@ -294,9 +338,9 @@ Comece pelo fato, pela decisão ou pelo problema específico do texto. Se o orig
 
 Se a importância não estiver evidente, acrescente a consequência disponível no original.
 
-### 21. Fuga de "é", "tem" e verbos simples
+### 22. Fuga de "é", "tem" e verbos simples
 
-**Sinais:** "atua como", "se apresenta como", "serve como", "consiste em", "conta com", "dispõe de", "possui", "oferece" usados para evitar construções diretas.
+**Sinais:** "atua como", "se apresenta como", "serve como", "funciona como", "opera como", "consiste em", "conta com", "dispõe de", "possui", "oferece", "refere-se a" usados para evitar construções diretas.
 
 **Antes:**
 > A plataforma atua como um hub central e conta com quatro módulos.
@@ -306,7 +350,7 @@ Se a importância não estiver evidente, acrescente a consequência disponível 
 
 "Possui" e "conta com" podem ser adequados. Prefira o verbo que descreve a ação com mais precisão.
 
-### 22. Nominalizações e locuções burocráticas
+### 23. Nominalizações e locuções burocráticas
 
 **Sinais:** "realizar a implementação", "efetuar o pagamento", "proceder à análise", "fazer a utilização", "ter a capacidade de".
 
@@ -316,7 +360,7 @@ Se a importância não estiver evidente, acrescente a consequência disponível 
 **Depois:**
 > A equipe implementará a alteração depois da validação.
 
-### 23. Voz passiva e frases sem agente
+### 24. Voz passiva e frases sem agente
 
 **Antes:**
 > A solicitação será analisada pela equipe de suporte, que enviará o retorno em até dois dias.
@@ -326,7 +370,7 @@ Se a importância não estiver evidente, acrescente a consequência disponível 
 
 Use passiva quando o agente for desconhecido, irrelevante ou deliberadamente omitido no gênero em questão.
 
-### 24. Rodeios e ressalvas empilhadas
+### 25. Rodeios e ressalvas empilhadas
 
 **Sinais:** "pode potencialmente vir a", "de certa forma", "em alguma medida", "é importante observar que", "no que diz respeito a", "com o objetivo de", "tendo em vista o fato de que".
 
@@ -338,7 +382,7 @@ Use passiva quando o agente for desconhecido, irrelevante ou deliberadamente omi
 
 Preserve incerteza real. Não transforme hipótese em certeza.
 
-### 25. Calques e anglicismos sem função
+### 26. Calques e anglicismos sem função
 
 Observe, conforme o público: "endereçar um problema", "performar", "aplicar para uma vaga", "experienciar", "suportar usuários", "realizar um call", "fazer um deep dive".
 
@@ -350,7 +394,7 @@ Observe, conforme o público: "endereçar um problema", "performar", "aplicar pa
 
 Mantenha jargão reconhecido pelo público quando a troca soar artificial ou mudar o sentido técnico.
 
-### 26. Ciclo de sinônimos
+### 27. Ciclo de sinônimos
 
 **Antes:**
 > O aplicativo, também chamado de plataforma ou solução neste texto, envia o pedido. A plataforma valida os dados. A solução apresenta o resultado.
@@ -360,7 +404,7 @@ Mantenha jargão reconhecido pelo público quando a troca soar artificial ou mud
 
 Repita nomes quando eles identificam a mesma coisa. Variação elegante pode criar falsas distinções. Se o contexto não estabelecer essa identidade, preserve os agentes separados; não presuma que aplicativo e plataforma executam as mesmas funções.
 
-### 27. Aberturas de frase repetidas
+### 28. Aberturas de frase repetidas
 
 **Problema:** o texto trata a repetição por regra, não de ouvido. Várias frases seguidas começam com o mesmo sujeito ("Ela", "A empresa", "O sistema") ou com a mesma estrutura.
 
@@ -372,7 +416,7 @@ Repita nomes quando eles identificam a mesma coisa. Variação elegante pode cri
 
 Não proíba a palavra repetida. Corrija a sequência mecânica: junte frases, mude o sujeito quando ajudar ou comece pela ação. A frase que sobrar pode continuar começando com "Ela".
 
-### 28. Regra de três forçada
+### 29. Regra de três forçada
 
 **Antes:**
 > O evento terá palestras, painéis e experiências. A programação promete inovação, conexão e transformação.
@@ -380,9 +424,15 @@ Não proíba a palavra repetida. Corrija a sequência mecânica: junte frases, m
 **Depois:**
 > O evento terá palestras, painéis e experiências.
 
-Use três itens quando existem três itens reais, não para produzir ritmo de apresentação.
+**Antes (tríade em escala de parágrafo):**
+> Uma carreira pode parecer promissora e fracassar. Um relacionamento pode parecer importante e acabar. Uma habilidade pode levar anos e continuar inútil. Essas decisões raramente se explicam sozinhas.
 
-### 29. Intervalos falsos
+**Depois:**
+> Uma carreira pode parecer promissora e fracassar. O mesmo vale para um relacionamento que parecia importante e acabou, ou para uma habilidade que levou anos e continuou inútil. Essas decisões raramente se explicam sozinhas.
+
+Use três itens quando existem três itens reais, não para produzir ritmo de apresentação. Confira se cada item acrescenta uma ideia distinta; se não, junte, desenvolva o mais forte ou varie a estrutura.
+
+### 30. Intervalos falsos
 
 **Sinais:** "de X a Y" ou "desde X até Y" quando os extremos não pertencem a uma escala útil.
 
@@ -392,7 +442,7 @@ Use três itens quando existem três itens reais, não para produzir ritmo de ap
 **Depois:**
 > O curso aborda criatividade, inteligência artificial, liderança e futuro do trabalho.
 
-### 30. Generalidade portátil
+### 31. Generalidade portátil
 
 Aplique o teste da portabilidade: a frase poderia ser copiada sem alteração para outra empresa, produto, cidade ou pessoa?
 
@@ -406,15 +456,15 @@ Se o original não trouxer um fato específico, simplifique a afirmação com o 
 
 ## Ritmo, estrutura e formatação
 
-### 31. Simetria robótica
+### 32. Simetria robótica
 
 **Sinais:** todos os parágrafos com a mesma extensão; sequência repetida de afirmação, explicação e conclusão; listas sempre com três itens; frases médias uniformes.
 
 Quebre a simetria somente onde o conteúdo pedir. Não crie erros ou excentricidades artificiais para "parecer humano".
 
-### 32. Formatação decorativa
+### 33. Formatação decorativa
 
-**Sinais:** emoji em todo heading; negrito espalhado em cada frase; listas com rótulos em negrito para ideias que cabem em prosa; muitos headings com um único parágrafo curto.
+**Sinais:** emoji em todo heading; setas (→) como adorno; negrito espalhado em cada frase; listas com rótulos em negrito para ideias que cabem em prosa; muitos headings com um único parágrafo curto; regra horizontal (`---`) entre cada seção; heading que só agrupa outros headings, sem prosa; tabela de duas colunas para o que caberia em uma frase.
 
 **Antes:**
 > - **Performance:** O sistema ficou mais rápido.
@@ -425,7 +475,7 @@ Quebre a simetria somente onde o conteúdo pedir. Não crie erros ou excentricid
 
 Mantenha listas quando elas ajudam consulta, comparação, passos ou requisitos.
 
-### 33. Título repetido na primeira frase
+### 34. Título repetido na primeira frase
 
 **Sinais:** um heading seguido de uma frase de uma linha que só repete o heading antes do conteúdo real.
 
@@ -441,7 +491,7 @@ Mantenha listas quando elas ajudam consulta, comparação, passos ou requisitos.
 >
 > Quando a página demora, o usuário fecha a aba.
 
-### 34. Títulos em estilo importado
+### 35. Títulos em estilo importado
 
 Em português brasileiro, prefira caixa de frase:
 
@@ -453,7 +503,7 @@ Em português brasileiro, prefira caixa de frase:
 
 Respeite nomes próprios e convenções editoriais do projeto.
 
-### 35. Travessão como muleta de ritmo
+### 36. Travessão como muleta de ritmo
 
 Use travessões quando funcionarem melhor que ponto, vírgula, dois-pontos ou parênteses. Preserve diálogo, apartes e ritmo demonstrados pelo autor, sem impor uma cota por tamanho de texto.
 
@@ -463,7 +513,7 @@ Use travessões quando funcionarem melhor que ponto, vírgula, dois-pontos ou pa
 **Depois:**
 > A mudança, anunciada sem aviso, afeta todos os contratos, inclusive os antigos.
 
-### 36. Documentação presa ao diff
+### 37. Documentação presa ao diff
 
 Fora de changelogs, release notes e guias de migração, descreva o sistema atual. Preserve contexto histórico quando ele explicar uma limitação, incompatibilidade ou decisão necessária ao leitor. Remova histórico sem função, sem deduzir implementação ou desempenho.
 
@@ -473,9 +523,9 @@ Fora de changelogs, release notes e guias de migração, descreva o sistema atua
 **Depois:**
 > A função consulta itens em um mapa.
 
-### 37. Artefatos de chatbot e tom servil
+### 38. Artefatos de chatbot e tom servil
 
-**Sinais:** "Ótima pergunta!", "Claro!", "Você está absolutamente certo", "Espero que isso ajude", "Se quiser, posso continuar", "Fico à disposição" quando o texto deveria ser autônomo; e restos do modelo, como "como modelo de linguagem", "até a minha última atualização", "com base nas informações disponíveis", "não tenho acesso a dados em tempo real".
+**Sinais:** "Ótima pergunta!", "Claro!", "Você está absolutamente certo", "Espero que isso ajude", "Se quiser, posso continuar", "Fico à disposição" quando o texto deveria ser autônomo; restos do modelo, como "como modelo de linguagem", "até a minha última atualização", "com base nas informações disponíveis", "não tenho acesso a dados em tempo real"; e placeholders esquecidos: "[Nome da empresa]", "[insira o tema]", "[link]", "TODO:", "{{variável}}".
 
 **Antes:**
 > Claro! Aqui está um resumo da política. Ela entra em vigor em 1º de julho e se aplica aos contratos renovados depois dessa data. Espero que ajude. Se quiser, posso detalhar os pontos.
@@ -489,9 +539,17 @@ Fora de changelogs, release notes e guias de migração, descreva o sistema atua
 **Depois:**
 > Até a última atualização disponível, a empresa não havia divulgado o número de clientes.
 
+**Antes (placeholder):**
+> Segue o resumo da política para [Nome da empresa]. [Descreva aqui o que muda.]
+
+**Depois:**
+> Segue o resumo da política.
+
+O placeholder não é conteúdo: remova-o. Se a lacuna for o ponto do texto, sinalize-a fora da prosa, sem inventar o nome ou o detalhe que faltava.
+
 Em emails de atendimento, cordialidade pode ser necessária. Retire apenas o servilismo automático e as ofertas que não pertencem ao documento. Remova especulação usada para preencher lacunas e preserve limites de data, acesso e evidência. Não encontrar uma informação não prova que ela não existe. Se o período for necessário e não estiver informado, sinalize a lacuna fora do texto.
 
-### 38. Fecho genérico, recapitulativo ou falsamente profundo
+### 39. Fecho genérico, recapitulativo ou falsamente profundo
 
 **Sinais:** "Em conclusão", "De modo geral", "O futuro é promissor", "Este é apenas o começo", "A jornada continua", repetição resumida de tudo o que acabou de ser dito; e a chamada automática de rede social: "E você, o que acha?", "Concorda? Comenta aqui", "Compartilhe com quem precisa ler isso", "Salve este post".
 
