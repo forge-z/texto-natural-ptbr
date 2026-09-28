@@ -94,9 +94,9 @@ Mantenha o gerúndio quando ele descreve uma ação real e simultânea. Corte-o 
 > Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times. Mantém presença ativa nas redes, com mais de 500 mil seguidores.
 
 **Depois:**
-> Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times.
+> Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times. Mantém atividade nas redes, com mais de 500 mil seguidores.
 
-Nomeie apenas a fonte disponível. Se houver só “especialistas afirmam”, não invente a fonte nem retire a atribuição para apresentar a alegação como fato confirmado. Sinalize a necessidade de apuração fora do texto; corte a passagem apenas se for dispensável ao conteúdo. Na lista de veículos, preserve a citação que o original contextualiza; não invente o que a pessoa disse para justificar o corte.
+Nomeie apenas a fonte disponível. Se houver só “especialistas afirmam”, não invente a fonte nem retire a atribuição para apresentar a alegação como fato confirmado. Sinalize a necessidade de apuração fora do texto; corte a passagem apenas se for dispensável ao conteúdo. Na lista de veículos, preserve nomes e dados únicos, inclusive número de seguidores; só corte o que for redundante ou quando o pedido autorizar a redução. Não invente o que a pessoa disse para justificar a lista.
 
 ### 5. Vínculo vago
 
@@ -328,7 +328,7 @@ Comece pelo fato, pela decisão ou pelo problema específico do texto. Se o orig
 
 ### 21. Metacomentário interpretativo
 
-**Sinais:** "Esse ponto é importante", "A principal conclusão é", "Como podemos ver", "Essa distinção faz toda a diferença", "Em outras palavras" quando apenas repete.
+**Sinais:** "Esse ponto é importante", "A principal conclusão é", "Como podemos ver", "Essa distinção faz toda a diferença", "Em outras palavras" quando apenas repete; e a moral depois de um exemplo que só nomeia o que ele já mostrou ("Isso mostra a importância de...", "A lição é clara").
 
 **Antes:**
 > Esse último ponto é mais importante do que parece. Em outras palavras, o prazo começa na aprovação.
@@ -336,7 +336,13 @@ Comece pelo fato, pela decisão ou pelo problema específico do texto. Se o orig
 **Depois:**
 > O prazo começa na aprovação.
 
-Se a importância não estiver evidente, acrescente a consequência disponível no original.
+**Antes (moral redundante):**
+> A equipe restaurou o backup e recuperou os arquivos. Isso mostra a importância de ter um backup.
+
+**Depois:**
+> A equipe restaurou o backup e recuperou os arquivos.
+
+Mantenha a interpretação quando ela acrescenta uma consequência, ressalva ou informação que o exemplo não mostra. Se a importância não estiver evidente, use apenas a consequência disponível no original.
 
 ### 22. Fuga de "é", "tem" e verbos simples
 
@@ -428,7 +434,7 @@ Não proíba a palavra repetida. Corrija a sequência mecânica: junte frases, m
 > Uma carreira pode parecer promissora e fracassar. Um relacionamento pode parecer importante e acabar. Uma habilidade pode levar anos e continuar inútil. Essas decisões raramente se explicam sozinhas.
 
 **Depois:**
-> Uma carreira pode parecer promissora e fracassar. O mesmo vale para um relacionamento que parecia importante e acabou, ou para uma habilidade que levou anos e continuou inútil. Essas decisões raramente se explicam sozinhas.
+> Uma carreira pode parecer promissora e fracassar. Um relacionamento pode parecer importante e acabar, assim como uma habilidade pode levar anos e continuar inútil. Essas decisões raramente se explicam sozinhas.
 
 Use três itens quando existem três itens reais, não para produzir ritmo de apresentação. Confira se cada item acrescenta uma ideia distinta; se não, junte, desenvolva o mais forte ou varie a estrutura.
 
@@ -501,7 +507,19 @@ Em português brasileiro, prefira caixa de frase:
 **Depois:**
 > ## Estratégias de crescimento e expansão global
 
-Respeite nomes próprios e convenções editoriais do projeto.
+Respeite nomes próprios e convenções editoriais do projeto. Em documentação e textos de consulta, o título deve indicar o conteúdo; corte o efeito que torna a seção difícil de localizar.
+
+**Antes (título de efeito):**
+> ## A decisão, em uma tela
+>
+> Compare os prazos de entrega dos seis fornecedores.
+
+**Depois:**
+> ## Prazos de entrega dos fornecedores
+>
+> Compare os prazos de entrega dos seis fornecedores.
+
+Preserve títulos expressivos quando eles servem à voz e ao gênero, como em crônicas ou campanhas. Em arquivos, confira as âncoras antes de renomear; mantenha o título se não puder preservar os links no escopo do pedido.
 
 ### 36. Travessão como muleta de ritmo
 
@@ -517,11 +535,21 @@ Use travessões quando funcionarem melhor que ponto, vírgula, dois-pontos ou pa
 
 Fora de changelogs, release notes e guias de migração, descreva o sistema atual. Preserve contexto histórico quando ele explicar uma limitação, incompatibilidade ou decisão necessária ao leitor. Remova histórico sem função, sem deduzir implementação ou desempenho.
 
+O mesmo vale para narrar a montagem do documento ("compilei os dados", "marquei o que não consegui confirmar") ou explicar um layout evidente ("a tabela abaixo compara", "a seção está organizada por responsável"). Uma descrição isolada não basta para marcar um problema.
+
 **Antes:**
 > Esta função, que consulta itens em um mapa, foi adicionada para substituir a abordagem anterior, que percorria todos os itens.
 
 **Depois:**
 > A função consulta itens em um mapa.
+
+**Antes (layout evidente):**
+> A lista abaixo está organizada por responsável. Ana revisa o contrato. Bruno confirma o prazo.
+
+**Depois:**
+> Ana revisa o contrato. Bruno confirma o prazo.
+
+Preserve fontes que o leitor pode consultar, métodos necessários para interpretar os resultados, convenções não evidentes e ressalvas que mudam a decisão ou a ação. Não deduza dados que faltam nem substitua uma limitação por uma instrução inventada.
 
 ### 38. Artefatos de chatbot e tom servil
 
@@ -560,6 +588,23 @@ Em emails de atendimento, cordialidade pode ser necessária. Retire apenas o ser
 > A próxima etapa é testar o sistema com 30 usuários em setembro.
 
 Termine no último fato concreto, consequência, decisão ou próximo passo existente no original. Se o fecho for uma frase de efeito, apague-a em vez de trocá-la por outra melhor. Uma pergunta real ao leitor pode ficar quando o autor de fato quer a resposta e o gênero comporta conversa; o problema é a chamada colada por hábito.
+
+### 40. Contexto repetido em respostas
+
+Aplique quando a conversa estiver disponível e mostrar o que o destinatário já sabe. Uma resposta que reconta a pergunta, o diagnóstico e as decisões já acordadas pode esconder a decisão nova na última linha.
+
+**Contexto já compartilhado:**
+> O contrato vence em 30 de setembro. A renovação precisa da aprovação de Ana.
+
+**Antes:**
+> Como o contrato vence em 30 de setembro e a renovação precisa da aprovação de Ana, vamos pedir a aprovação hoje.
+
+**Depois:**
+> Vamos pedir a aprovação de Ana hoje.
+
+Comece pela resposta ou decisão e retire só o contexto comprovadamente repetido. Preserve fatos únicos, razões que mudam a decisão, condições ainda relevantes e informações necessárias para agir. Se o prazo estivesse apenas na resposta, ele precisaria ficar.
+
+Sem a conversa anterior, preserve o contexto; não suponha que o destinatário já conhece datas, números ou justificativas. Também preserve explicações pedidas e o contexto de documentos destinados a leitores que não participaram da conversa.
 
 ## Regra de não fabricação
 

@@ -18,6 +18,8 @@ Confira internamente os critérios aplicáveis ao pedido. Marque cada um como pa
 - Os cortes retiram redundância e ornamentação sem apagar uma afirmação apenas por ser genérica?
 - Verbos, sujeitos e conexões ficaram claros sem inventar agente, cargo, relação causal ou direção de efeito?
 - A intervenção foi proporcional ao problema, sem uniformizar todos os parágrafos nem fabricar informalidade ou irregularidade?
+- Em respostas, o contexto cortado já estava disponível ao destinatário, sem perder fatos novos, condições relevantes, razões decisivas ou explicações pedidas?
+- Morais após exemplos, títulos de efeito e comentários de montagem/layout só foram cortados quando redundantes; fontes consultáveis, método necessário e ressalvas úteis permaneceram?
 - Perguntas, tríades, travessões, conectivos, ressalvas, cordialidade e chamadas à ação com função real foram preservados?
 - A releitura final está livre de contraste “não X, mas Y”, fecho de uma linha que só repete, travessão decorativo, tríade forçada e rótulo em negrito sem função?
 - Placeholders e restos de chatbot foram removidos, sem preencher colchetes com nomes ou fatos inventados?
@@ -55,3 +57,11 @@ Para revisar a skill, aplique os pedidos abaixo em contexto independente e confi
 | **Resuma em uma frase** um texto de três parágrafos. | Resumo permitido pelo pedido, sem exigir a reprodução integral nem introduzir fatos. |
 | **Edite:** “Ele está associado à liderança da ExampleCorp.” | Manter o vínculo vago; não inventar cargo (CEO, diretor, conselheiro). |
 | **Edite:** “Segue o resumo da política para [Nome da empresa]. [Descreva aqui o que muda.]” | Remover os placeholders; não inventar o nome da empresa nem o conteúdo que faltava. |
+| **Edite uma resposta, só o texto:** contexto já compartilhado “O contrato vence em 30 de setembro e depende da aprovação de Ana”; resposta “Como o contrato vence em 30 de setembro e depende da aprovação de Ana, vamos pedir a aprovação hoje.” | A decisão de pedir a aprovação de Ana hoje aparece primeiro; a recapitulação disponível pode sair. |
+| **Edite, sem contexto anterior:** “O contrato vence em 30 de setembro e depende da aprovação de Ana. Vamos pedir a aprovação hoje.” | Prazo, condição, responsável e decisão permanecem; não presumir conhecimento do destinatário. |
+| **Edite a resposta:** contexto “A renovação depende de Ana”; resposta “A renovação depende de Ana. O contrato vence em 30 de setembro e o preço sobe 8% na renovação. Vamos pedir a aprovação hoje.” | A resposta ou decisão vem primeiro; data e aumento de 8% são informações novas e ficam, assim como a dependência da aprovação de Ana. |
+| **Edite:** “A equipe restaurou o backup e recuperou os arquivos. Isso mostra a importância de ter um backup. A recuperação levou duas horas.” | A moral redundante pode sair; ação, arquivos recuperados e duração de duas horas permanecem. |
+| **Edite um relatório:** “Compilei os resultados na tabela abaixo. Os valores são medianas de três medições; duas amostras não foram medidas. Fonte: [relatório](https://example.com/relatorio).” | Método, limite da amostra e destino da fonte permanecem; só a narração de montagem sem função pode sair. |
+| **Edite mantendo a explicação completa e as âncoras:** resposta com contexto repetido e Markdown com título expressivo que recebe um link interno. | A explicação completa prevalece sobre a redução de contexto; preservar o título se não for possível manter seus links no escopo autorizado. |
+| **Edite uma lista de prestígio:** “Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times. Mantém presença ativa nas redes, com mais de 500 mil seguidores.” | Veículos e número de seguidores permanecem; reconhecer um padrão não autoriza apagar dados únicos. |
+| **Edite a tríade:** “Uma carreira pode parecer promissora e fracassar. Um relacionamento pode parecer importante e acabar. Uma habilidade pode levar anos e continuar inútil. Essas decisões raramente se explicam sozinhas.” | As três possibilidades e a ressalva final permanecem; não transformar hipóteses em fatos passados nem cortar um exemplo único. |
