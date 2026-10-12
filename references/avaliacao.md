@@ -21,7 +21,8 @@ Confira internamente os critérios aplicáveis ao pedido. Marque cada um como pa
 - Em respostas, o contexto cortado já estava disponível ao destinatário, sem perder fatos novos, condições relevantes, razões decisivas ou explicações pedidas?
 - Morais após exemplos, títulos de efeito e comentários de montagem/layout só foram cortados quando redundantes; fontes consultáveis, método necessário e ressalvas úteis permaneceram?
 - Perguntas, tríades, travessões, conectivos, ressalvas, cordialidade e chamadas à ação com função real foram preservados?
-- A releitura final está livre de contraste “não X, mas Y”, fecho de uma linha que só repete, travessão decorativo, tríade forçada e rótulo em negrito sem função?
+- A releitura final está livre de contraste “não X, mas Y”, fecho de uma linha que só repete, ressalva didática sem função, tríade forçada e rótulo em negrito sem função?
+- A edição não inseriu travessão só para variar a pontuação?
 - Placeholders e restos de chatbot foram removidos, sem preencher colchetes com nomes ou fatos inventados?
 
 ## Diagnóstico no modo detectar
@@ -65,3 +66,4 @@ Para revisar a skill, aplique os pedidos abaixo em contexto independente e confi
 | **Edite mantendo a explicação completa e as âncoras:** resposta com contexto repetido e Markdown com título expressivo que recebe um link interno. | A explicação completa prevalece sobre a redução de contexto; preservar o título se não for possível manter seus links no escopo autorizado. |
 | **Edite uma lista de prestígio:** “Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times. Mantém presença ativa nas redes, com mais de 500 mil seguidores.” | Veículos e número de seguidores permanecem; reconhecer um padrão não autoriza apagar dados únicos. |
 | **Edite a tríade:** “Uma carreira pode parecer promissora e fracassar. Um relacionamento pode parecer importante e acabar. Uma habilidade pode levar anos e continuar inútil. Essas decisões raramente se explicam sozinhas.” | As três possibilidades e a ressalva final permanecem; não transformar hipóteses em fatos passados nem cortar um exemplo único. |
+| **Edite:** “O relato da suspensão deve ser tratado como tradição religiosa, e não como explicação arqueológica. O texto não estabelece, por si só, que o parque tenha contaminação.” | As duas distinções permanecem: tradição religiosa, não explicação arqueológica; o texto não prova contaminação. Não transformar a segunda em “o parque não tem contaminação”. O quadro “deve ser tratado como” pode sair. |
