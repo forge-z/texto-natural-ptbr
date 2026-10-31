@@ -3,7 +3,7 @@ name: texto-natural-ptbr
 description: Edita, reescreve ou audita textos em português brasileiro para reduzir linguagem genérica, inflada ou mecânica, preservando sentido e voz. Use em pedidos para humanizar um texto, deixá-lo mais natural, direto ou menos corporativo, ou apontar padrões de escrita artificial sem reescrever. Não determina autoria por IA nem substitui checagem factual.
 license: MIT; veja LICENSE e SOURCES.md
 metadata:
-  version: "1.6.0"
+  version: "1.6.1"
   language: "pt-BR"
 ---
 
