@@ -127,7 +127,7 @@ Ou remova a passagem quando a ausência não for relevante. O aviso que ensina a
 
 ### 7. Ressalva didática sobre a fonte
 
-**Sinais:** "deve ser tratado como", "deve ser apresentado como", "e não como" aplicado ao estatuto da informação, "não estabelece, por si só", "não sustenta, por si só, a conclusão de que", "com base nas informações disponíveis" quando a frase ensina o leitor a classificar o dado.
+**Sinais:** "deve ser tratado como", "deve ser apresentado como", "e não como" aplicado ao estatuto da informação, "não estabelece, por si só", "não sustenta, por si só, a conclusão de que", "com base nas informações disponíveis" quando a frase ensina o leitor a classificar o dado; "não confundir com" e "não deve ser confundido com" quando o texto inventa uma confusão improvável para encenar prudência (desde meados de 2026 isso aparece com frequência; isolado, é menos confiável que os outros sinais).
 
 **Problema:** o texto avisa como usar a informação, em geral num contraste, em vez de dizer o que ela é ou qual limite ela tem.
 
@@ -574,7 +574,7 @@ Preserve fontes que o leitor pode consultar, métodos necessários para interpre
 
 ### 39. Artefatos de chatbot e tom servil
 
-**Sinais:** "Ótima pergunta!", "Claro!", "Você está absolutamente certo", "Espero que isso ajude", "Se quiser, posso continuar", "Fico à disposição" quando o texto deveria ser autônomo; restos do modelo, como "como modelo de linguagem", "até a minha última atualização", "com base nas informações disponíveis", "não tenho acesso a dados em tempo real"; e placeholders esquecidos: "[Nome da empresa]", "[insira o tema]", "[link]", "TODO:", "{{variável}}".
+**Sinais:** "Ótima pergunta!", "Claro!", "Você está absolutamente certo", "Espero que isso ajude", "Se quiser, posso continuar", "Fico à disposição" quando o texto deveria ser autônomo; restos do modelo, como "como modelo de linguagem", "até a minha última atualização", "com base nas informações disponíveis", "não tenho acesso a dados em tempo real"; placeholders esquecidos: "[Nome da empresa]", "[insira o tema]", "[link]", "TODO:", "{{variável}}"; placeholders de citação ou URL (`INSERT_SOURCE_URL_30`, `COLE_O_LINK_AQUI`, `PASTE_YOUTUBE_VIDEO_URL_HERE`, `2025-XX-XX` no lugar de data); vazamento de estrutura interna de citação (`contentReference[oaicite:0]`, `:oai_citation`, `turn0search0`); URL genérica de exemplo (`https://example.com/...`) usada como fonte real — cuidado: alguns modelos de documento legítimos também usam esse endereço.
 
 **Antes:**
 > Claro! Aqui está um resumo da política. Ela entra em vigor em 1º de julho e se aplica aos contratos renovados depois dessa data. Espero que ajude. Se quiser, posso detalhar os pontos.
@@ -594,7 +594,13 @@ Preserve fontes que o leitor pode consultar, métodos necessários para interpre
 **Depois:**
 > Segue o resumo da política.
 
-O placeholder não é conteúdo: remova-o. Se a lacuna for o ponto do texto, sinalize-a fora da prosa, sem inventar o nome ou o detalhe que faltava.
+**Antes (placeholder de URL):**
+> A empresa foi citada no Estadão.<ref>https://example.com/noticia | acesso em 2025-XX-XX</ref>
+
+**Depois:**
+> A empresa foi citada no Estadão.
+
+O placeholder não é conteúdo: remova-o ou sinalize a lacuna fora da prosa, sem inventar URL, data ou nome. Se a citação for essencial e o link faltar, preserve a menção ao veículo sem fabricar endereço.
 
 Em emails de atendimento, cordialidade pode ser necessária. Retire apenas o servilismo automático e as ofertas que não pertencem ao documento. Remova especulação usada para preencher lacunas e preserve limites de data, acesso e evidência. Não encontrar uma informação não prova que ela não existe. Se o período for necessário e não estiver informado, sinalize a lacuna fora do texto.
 

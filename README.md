@@ -52,7 +52,7 @@ As referências em [`references/`](references/) fazem parte do trabalho:
   exemplos de antes e depois, as ressalvas para não marcar falso positivo e
   os sinais de voz que devem sobreviver. Leitura obrigatória antes de editar.
 - [`avaliacao.md`](references/avaliacao.md) valida fidelidade, voz, clareza,
-  escopo e entrega conforme o modo. Inclui vinte e um casos de regressão para revisar
+  escopo e entrega conforme o modo. Inclui vinte e dois casos de regressão para revisar
   a skill. Confira os critérios aplicáveis antes de entregar.
 - [`exemplos.md`](references/exemplos.md) traz entradas e saídas completas
   nos modos editar, reescrever e detectar. Consulta opcional.
