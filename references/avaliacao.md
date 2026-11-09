@@ -21,9 +21,9 @@ Confira internamente os critérios aplicáveis ao pedido. Marque cada um como pa
 - Em respostas, o contexto cortado já estava disponível ao destinatário, sem perder fatos novos, condições relevantes, razões decisivas ou explicações pedidas?
 - Morais após exemplos, títulos de efeito e comentários de montagem/layout só foram cortados quando redundantes; fontes consultáveis, método necessário e ressalvas úteis permaneceram?
 - Perguntas, tríades, travessões, conectivos, ressalvas, cordialidade e chamadas à ação com função real foram preservados?
-- A releitura final está livre de contraste “não X, mas Y”, fecho de uma linha que só repete, ressalva didática sem função, tríade forçada e rótulo em negrito sem função?
+- A releitura final está livre de contraste “não X, mas Y”, fecho de uma linha que só repete, ressalva didática sem função, tríade forçada, rótulo em negrito sem função e quadro “identifica como” sem função?
 - A edição não inseriu travessão só para variar a pontuação?
-- Placeholders e restos de chatbot foram removidos, sem preencher colchetes com nomes ou fatos inventados?
+- Placeholders, comentários e roteiros deixados para o autor foram removidos, sem preencher colchetes nem executar a instrução com nomes ou fatos inventados?
 
 ## Diagnóstico no modo detectar
 
@@ -68,3 +68,5 @@ Para revisar a skill, aplique os pedidos abaixo em contexto independente e confi
 | **Edite uma lista de prestígio:** “Suas ideias foram citadas no Estadão, na Folha, na BBC e no Financial Times. Mantém presença ativa nas redes, com mais de 500 mil seguidores.” | Veículos e número de seguidores permanecem; reconhecer um padrão não autoriza apagar dados únicos. |
 | **Edite a tríade:** “Uma carreira pode parecer promissora e fracassar. Um relacionamento pode parecer importante e acabar. Uma habilidade pode levar anos e continuar inútil. Essas decisões raramente se explicam sozinhas.” | As três possibilidades e a ressalva final permanecem; não transformar hipóteses em fatos passados nem cortar um exemplo único. |
 | **Edite:** “O relato da suspensão deve ser tratado como tradição religiosa, e não como explicação arqueológica. O texto não estabelece, por si só, que o parque tenha contaminação.” | As duas distinções permanecem: tradição religiosa, não explicação arqueológica; o texto não prova contaminação. Não transformar a segunda em “o parque não tem contaminação”. O quadro “deve ser tratado como” pode sair. |
+| **Edite:** “O perfil no conselho o identifica como dermatologista com registro ativo desde 2016.” | O fato e a fonte permanecem, sem o quadro “identifica como”. Não inventar clínica, cidade ou outro título. Uma inclusão que seja o fato (“consta na lista de devedores”) permanece. |
+| **Edite:** “<!-- Abrir com duas frases. --> A clínica atende em Pinheiros desde 2014. <!-- O alvará de março entra aqui. -->” | Fica o atendimento em Pinheiros desde 2014. O comentário sai. Não inventar o alvará nem ampliar o parágrafo para duas frases. |
