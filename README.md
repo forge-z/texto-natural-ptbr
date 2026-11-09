@@ -52,7 +52,7 @@ As referências em [`references/`](references/) fazem parte do trabalho:
   exemplos de antes e depois, as ressalvas para não marcar falso positivo e
   os sinais de voz que devem sobreviver. Leitura obrigatória antes de editar.
 - [`avaliacao.md`](references/avaliacao.md) valida fidelidade, voz, clareza,
-  escopo e entrega conforme o modo. Inclui vinte e dois casos de regressão para revisar
+  escopo e entrega conforme o modo. Inclui vinte e quatro casos de regressão para revisar
   a skill. Confira os critérios aplicáveis antes de entregar.
 - [`exemplos.md`](references/exemplos.md) traz entradas e saídas completas
   nos modos editar, reescrever e detectar. Consulta opcional.
@@ -71,7 +71,10 @@ Em respostas numa conversa, a skill retira recapitulações apenas quando o
 contexto compartilhado está disponível. Fatos novos, razões decisivas e
 explicações pedidas permanecem. Também distingue moral redundante após um
 exemplo, título de efeito e narração da montagem do documento de informações
-que ajudam o leitor a interpretar ou agir.
+que ajudam o leitor a interpretar ou agir. Quando a fonte só emoldura um fato
+já dito (“o perfil o identifica como”), declara o fato e mantém a atribuição,
+sem completar cargo ou dado que a frase não trouxe. Comentário e roteiro
+deixados para o autor saem, sem serem executados.
 
 ## Instalação
 
