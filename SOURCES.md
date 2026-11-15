@@ -9,7 +9,17 @@ Esta skill é uma adaptação original para português brasileiro baseada em pri
 
 A adaptação reorganiza os fluxos, combina os critérios compatíveis e substitui exemplos e construções do inglês por padrões recorrentes do português brasileiro. A contribuição de `i-have-adhd` trata da forma de conduzir a edição e não altera os critérios linguísticos. Esta skill não funciona como detector de autoria.
 
-## Lote C — livros do Domínio Público (codex)
+## Livros do Domínio Público
 
-- Machado de Assis, *Páginas críticas e comemorativas*, coletânea de peças de datas diversas; ano da edição não informado no PDF. [Consulta da obra](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp), [download oficial](https://www.dominiopublico.gov.br/download/texto/bv000254.pdf) e [cópia consultada no Wayback](https://web.archive.org/web/20100605072423id_/http://www.dominiopublico.gov.br/download/texto/bv000254.pdf). Referência: [Machado](references/livros/machado-paginas-criticas-e-comemorativas.md).
-- Aristóteles, *Arte Poética*, século IV a.C.; data da tradução não informada no PDF. [Consulta da obra](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp), [download oficial](https://www.dominiopublico.gov.br/download/texto/cv000005.pdf) e [cópia consultada no Wayback](https://web.archive.org/web/20090831092910id_/http://www.dominiopublico.gov.br/download/texto/cv000005.pdf). Referência: [Aristóteles](references/livros/aristoteles-arte-poetica.md).
+Obras em domínio público, lidas via PDF do Wayback (`pdftotext`), com regras adaptadas à prosa em pt-BR atual. Índice em [references/livros/README.md](references/livros/README.md). Os PDFs não estão versionados.
+
+| Obra | Wayback (consultado) | Ficha |
+| --- | --- | --- |
+| José de Alencar, *Ao correr da pena* (1854–1855) | [bv000130.pdf](https://web.archive.org/web/20091224135305id_/http://www.dominiopublico.gov.br/download/texto/bv000130.pdf) | [ficha](references/livros/alencar-ao-correr-da-pena.md) |
+| Joaquim Nabuco, *Camões* (1880) | [bn000041.pdf](https://web.archive.org/web/20080920153449id_/http://www.dominiopublico.gov.br/download/texto/bn000041.pdf) | [ficha](references/livros/nabuco-camoes.md) |
+| Machado de Assis, *Críticas teatrais* (c. 1859–1866) | [bv000179.pdf](https://web.archive.org/web/20131106014014id_/http://www.dominiopublico.gov.br/download/texto/bv000179.pdf) | [ficha](references/livros/machado-criticas-teatrais.md) |
+| Padre António Vieira, *Sermão da Sexagésima* (1655) | [bv000034.pdf](https://web.archive.org/web/20090107042537id_/http://www.dominiopublico.gov.br/download/texto/bv000034.pdf) | [ficha](references/livros/vieira-sermao-da-sexagesima.md) |
+| Machado de Assis, *Páginas críticas e comemorativas* | [bv000254.pdf](https://web.archive.org/web/20100605072423id_/http://www.dominiopublico.gov.br/download/texto/bv000254.pdf) | [ficha](references/livros/machado-paginas-criticas-e-comemorativas.md) |
+| Aristóteles, *Arte Poética* (séc. IV a.C.) | [cv000005.pdf](https://web.archive.org/web/20090831092910id_/http://www.dominiopublico.gov.br/download/texto/cv000005.pdf) | [ficha](references/livros/aristoteles-arte-poetica.md) |
+
+Consulta da obra no acervo: [PesquisaObraForm.jsp](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp).

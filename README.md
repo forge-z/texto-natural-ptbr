@@ -7,6 +7,19 @@ A edição começa pela entrega e respeita o pedido de tom, extensão e formato.
 Os exemplos mostram como reduzir excessos sem inventar fatos, apagar ressalvas
 ou transformar informação limitada em certeza.
 
+Versão atual da skill: **1.7.0** (campo `version` em [`SKILL.md`](SKILL.md)).
+
+## Estrutura do repositório
+
+| Caminho | Função |
+| --- | --- |
+| [`SKILL.md`](SKILL.md) | Instruções do agente (fluxo, modos, critérios) |
+| [`references/padroes-ptbr.md`](references/padroes-ptbr.md) | Padrões de escrita artificial em pt-BR (leitura obrigatória antes de editar) |
+| [`references/avaliacao.md`](references/avaliacao.md) | Checklist e regressões por modo |
+| [`references/exemplos.md`](references/exemplos.md) | Entradas e saídas de calibração |
+| [`references/livros/`](references/livros/) | Fichas do Domínio Público (consulta opcional; ver [`README`](references/livros/README.md)) |
+| [`SOURCES.md`](SOURCES.md) | Atribuição e URLs das fontes |
+
 ## O que faz
 
 - Remove linguagem genérica, inflada, promocional ou mecânica.
@@ -56,6 +69,9 @@ As referências em [`references/`](references/) fazem parte do trabalho:
   a skill. Confira os critérios aplicáveis antes de entregar.
 - [`exemplos.md`](references/exemplos.md) traz entradas e saídas completas
   nos modos editar, reescrever e detectar. Consulta opcional.
+- [`livros/`](references/livros/) reúne seis obras clássicas com regras adaptadas
+  à prosa atual (gênero, fechamento, unidade, descrição). Consulta opcional após
+  `padroes-ptbr.md`.
 
 A regra principal é simples: especificidade deve vir do original ou do
 contexto fornecido pelo usuário. Se faltar um detalhe, preserve uma versão
@@ -104,7 +120,15 @@ runtime.
 Distribuída sob MIT. As fontes e atribuições estão em
 [`SOURCES.md`](SOURCES.md).
 
-### Referências do lote C — livros do Domínio Público (codex)
+### Livros do Domínio Público
 
-- [Páginas críticas e comemorativas](references/livros/machado-paginas-criticas-e-comemorativas.md), de Machado de Assis: descrição, fala de personagem e observação concreta.
-- [Arte Poética](references/livros/aristoteles-arte-poetica.md), de Aristóteles: adaptações sobre unidade, função das partes e clareza. A obra trata de poesia e tragédia gregas, não de português brasileiro.
+Seis fichas em [`references/livros/`](references/livros/), com citações conferidas nos PDFs do Wayback e exemplos Antes/Depois em pt-BR atual:
+
+- [Ao correr da pena](references/livros/alencar-ao-correr-da-pena.md) (José de Alencar)
+- [Camões](references/livros/nabuco-camoes.md) (Joaquim Nabuco)
+- [Críticas teatrais](references/livros/machado-criticas-teatrais.md) (Machado de Assis)
+- [Sermão da Sexagésima](references/livros/vieira-sermao-da-sexagesima.md) (Padre António Vieira; oratória barroca só como contexto)
+- [Páginas críticas e comemorativas](references/livros/machado-paginas-criticas-e-comemorativas.md) (Machado de Assis)
+- [Arte Poética](references/livros/aristoteles-arte-poetica.md) (Aristóteles; adaptação à prosa, não prescrição literária)
+
+URLs e atribuição em [`SOURCES.md`](SOURCES.md).
