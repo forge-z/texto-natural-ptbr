@@ -23,3 +23,13 @@ Obras em domínio público, lidas via PDF do Wayback (`pdftotext`), com regras a
 | Aristóteles, *Arte Poética* (séc. IV a.C.) | [cv000005.pdf](https://web.archive.org/web/20090831092910id_/http://www.dominiopublico.gov.br/download/texto/cv000005.pdf) | [ficha](references/livros/aristoteles-arte-poetica.md) |
 
 Consulta da obra no acervo: [PesquisaObraForm.jsp](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp).
+
+## Lote B2 — livros do Domínio Público (agy)
+
+Obras brasileiras do acervo do Domínio Público, lidas e verificadas com `pdftotext` a partir de arquivos do acervo oficial e registros do Wayback Machine. Regras concretas e exemplos Antes/Depois para prosa em pt-BR atual em [references/livros/](references/livros/).
+
+| Obra | Catálogo / Registro | Download oficial | Wayback (consultado) | Ficha |
+| --- | --- | --- | --- | --- |
+| José de Alencar, *Como e por que sou romancista* (1873/1893) | [obra 1837](https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1837) | [bv000311.pdf](https://www.dominiopublico.gov.br/download/texto/bv000311.pdf) | [Wayback](https://web.archive.org/web/20131106011758id_/http://www.dominiopublico.gov.br/download/texto/bv000311.pdf) | [ficha](references/livros/alencar-como-e-por-que-sou-romancista.md) |
+| Sílvio Romero, *História da literatura brasileira: Fatores da literatura brasileira* (1888) | [obra 2128](https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=2128) | [bn000117.pdf](https://www.dominiopublico.gov.br/download/texto/bn000117.pdf) | [Wayback](https://web.archive.org/web/20131106072636id_/http://www.dominiopublico.gov.br/download/texto/bn000117.pdf) | [ficha](references/livros/romero-historia-da-literatura-brasileira-fatores.md) |
+

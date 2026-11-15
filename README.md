@@ -132,3 +132,11 @@ Seis fichas em [`references/livros/`](references/livros/), com citações confer
 - [Arte Poética](references/livros/aristoteles-arte-poetica.md) (Aristóteles; adaptação à prosa, não prescrição literária)
 
 URLs e atribuição em [`SOURCES.md`](SOURCES.md).
+
+### Referências do lote B2 — livros do Domínio Público (agy)
+
+Fichas adicionais em [`references/livros/`](references/livros/), baseadas em autores brasileiros com obras disponíveis no Domínio Público, com citações verificadas nos textos originais e exemplos Antes/Depois para prosa em pt-BR contemporânea:
+
+- [Como e por que sou romancista](references/livros/alencar-como-e-por-que-sou-romancista.md) (José de Alencar; urdidura factual, corte de digressão, recusa a moldes pré-fabricados, poda da exuberância, laconismo do fato e revisão rigorosa).
+- [História da literatura brasileira: Fatores da literatura brasileira](references/livros/romero-historia-da-literatura-brasileira-fatores.md) (Sílvio Romero; legitimidade orgânica do português brasileiro, desuso de tempos verbais arcaicos, precisão lexical concreta, recusa a pastiches e ao copismo estrangeiro servil).
+
