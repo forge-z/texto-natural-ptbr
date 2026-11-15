@@ -11,15 +11,17 @@ A adaptação reorganiza os fluxos, combina os critérios compatíveis e substit
 
 ## Livros do Domínio Público
 
-Obras em domínio público, lidas via PDF do Wayback (`pdftotext`), com regras adaptadas à prosa em pt-BR atual. Índice em [references/livros/README.md](references/livros/README.md). Os PDFs não estão versionados.
+Obras em domínio público de autores brasileiros que escrevem sobre estilo, crítica ou uso da língua. Citações conferidas nos PDFs do Wayback ou nos espelhos indicados em cada ficha; os PDFs não estão versionados. Índice em [references/livros/README.md](references/livros/README.md).
 
 | Obra | Wayback (consultado) | Ficha |
 | --- | --- | --- |
 | José de Alencar, *Ao correr da pena* (1854–1855) | [bv000130.pdf](https://web.archive.org/web/20091224135305id_/http://www.dominiopublico.gov.br/download/texto/bv000130.pdf) | [ficha](references/livros/alencar-ao-correr-da-pena.md) |
+| José de Alencar, *Como e por que sou romancista* (1873/1893) | [bv000311.pdf](https://web.archive.org/web/20131106011758id_/http://www.dominiopublico.gov.br/download/texto/bv000311.pdf) | [ficha](references/livros/alencar-como-e-por-que-sou-romancista.md) |
 | Joaquim Nabuco, *Camões* (1880) | [bn000041.pdf](https://web.archive.org/web/20080920153449id_/http://www.dominiopublico.gov.br/download/texto/bn000041.pdf) | [ficha](references/livros/nabuco-camoes.md) |
 | Machado de Assis, *Críticas teatrais* (c. 1859–1866) | [bv000179.pdf](https://web.archive.org/web/20131106014014id_/http://www.dominiopublico.gov.br/download/texto/bv000179.pdf) | [ficha](references/livros/machado-criticas-teatrais.md) |
-| Padre António Vieira, *Sermão da Sexagésima* (1655) | [bv000034.pdf](https://web.archive.org/web/20090107042537id_/http://www.dominiopublico.gov.br/download/texto/bv000034.pdf) | [ficha](references/livros/vieira-sermao-da-sexagesima.md) |
 | Machado de Assis, *Páginas críticas e comemorativas* | [bv000254.pdf](https://web.archive.org/web/20100605072423id_/http://www.dominiopublico.gov.br/download/texto/bv000254.pdf) | [ficha](references/livros/machado-paginas-criticas-e-comemorativas.md) |
-| Aristóteles, *Arte Poética* (séc. IV a.C.) | [cv000005.pdf](https://web.archive.org/web/20090831092910id_/http://www.dominiopublico.gov.br/download/texto/cv000005.pdf) | [ficha](references/livros/aristoteles-arte-poetica.md) |
+| Machado de Assis, *O cônego ou Metafísica do estilo* (1885) | [bv000272.pdf](https://web.archive.org/web/20131106023715id_/http://www.dominiopublico.gov.br/download/texto/bv000272.pdf) | [ficha](references/livros/machado-o-conego-ou-metafisica-do-estilo.md) |
+| Olavo Bilac, *Ironia e piedade* (1916) | [ub000044.pdf](https://web.archive.org/web/20120129171421id_/http://www.dominiopublico.gov.br/download/texto/ub000044.pdf) | [ficha](references/livros/bilac-ironia-e-piedade.md) |
+| Sílvio Romero, *História da literatura brasileira: Fatores* (1888) | [bn000117.pdf](https://web.archive.org/web/20131106072636id_/http://www.dominiopublico.gov.br/download/texto/bn000117.pdf) | [ficha](references/livros/romero-historia-da-literatura-brasileira-fatores.md) |
 
 Consulta da obra no acervo: [PesquisaObraForm.jsp](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp).
