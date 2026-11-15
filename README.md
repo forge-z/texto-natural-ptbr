@@ -7,7 +7,7 @@ A edição começa pela entrega e respeita o pedido de tom, extensão e formato.
 Os exemplos mostram como reduzir excessos sem inventar fatos, apagar ressalvas
 ou transformar informação limitada em certeza.
 
-Versão atual da skill: **1.7.0** (campo `version` em [`SKILL.md`](SKILL.md)).
+Versão atual da skill: **1.8.0** (campo `version` em [`SKILL.md`](SKILL.md)).
 
 ## Estrutura do repositório
 
@@ -69,9 +69,8 @@ As referências em [`references/`](references/) fazem parte do trabalho:
   a skill. Confira os critérios aplicáveis antes de entregar.
 - [`exemplos.md`](references/exemplos.md) traz entradas e saídas completas
   nos modos editar, reescrever e detectar. Consulta opcional.
-- [`livros/`](references/livros/) reúne seis obras clássicas com regras adaptadas
-  à prosa atual (gênero, fechamento, unidade, descrição). Consulta opcional após
-  `padroes-ptbr.md`.
+- [`livros/`](references/livros/) reúne oito obras de autores brasileiros com regras
+  adaptadas à prosa atual. Consulta opcional após `padroes-ptbr.md`.
 
 A regra principal é simples: especificidade deve vir do original ou do
 contexto fornecido pelo usuário. Se faltar um detalhe, preserve uma versão
@@ -122,13 +121,15 @@ Distribuída sob MIT. As fontes e atribuições estão em
 
 ### Livros do Domínio Público
 
-Seis fichas em [`references/livros/`](references/livros/), com citações conferidas nos PDFs do Wayback e exemplos Antes/Depois em pt-BR atual:
+Oito fichas em [`references/livros/`](references/livros/), com citações conferidas nos PDFs do Wayback (ou espelhos indicados em cada ficha) e exemplos Antes/Depois em pt-BR atual. Apenas autores brasileiros sobre escrita em português brasileiro:
 
 - [Ao correr da pena](references/livros/alencar-ao-correr-da-pena.md) (José de Alencar)
+- [Como e por que sou romancista](references/livros/alencar-como-e-por-que-sou-romancista.md) (José de Alencar)
 - [Camões](references/livros/nabuco-camoes.md) (Joaquim Nabuco)
 - [Críticas teatrais](references/livros/machado-criticas-teatrais.md) (Machado de Assis)
-- [Sermão da Sexagésima](references/livros/vieira-sermao-da-sexagesima.md) (Padre António Vieira; oratória barroca só como contexto)
 - [Páginas críticas e comemorativas](references/livros/machado-paginas-criticas-e-comemorativas.md) (Machado de Assis)
-- [Arte Poética](references/livros/aristoteles-arte-poetica.md) (Aristóteles; adaptação à prosa, não prescrição literária)
+- [O cônego ou Metafísica do estilo](references/livros/machado-o-conego-ou-metafisica-do-estilo.md) (Machado de Assis)
+- [Ironia e piedade](references/livros/bilac-ironia-e-piedade.md) (Olavo Bilac)
+- [História da literatura brasileira: Fatores](references/livros/romero-historia-da-literatura-brasileira-fatores.md) (Sílvio Romero)
 
-URLs e atribuição em [`SOURCES.md`](SOURCES.md).
+Tabela completa e URLs em [`SOURCES.md`](SOURCES.md).
