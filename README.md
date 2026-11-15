@@ -103,3 +103,11 @@ runtime.
 
 Distribuída sob MIT. As fontes e atribuições estão em
 [`SOURCES.md`](SOURCES.md).
+
+### Referências do lote B — livros do Domínio Público (agy)
+
+Adiciona análises e regras práticas de escrita e edição a partir de obras do catálogo do Domínio Público, com diretrizes aplicáveis à prosa moderna e delimitação de traços históricos ou arcaicos:
+
+- [`references/livros/machado-criticas-teatrais.md`](references/livros/machado-criticas-teatrais.md): Machado de Assis, *Críticas teatrais* (artigos c. 1859–1866; edição coletada, 31 pp.). Extrai regras contra o torneado bombástico no diálogo e na prosa, o uso de rodeios e adulações em textos críticos ("estilo tranchant", sem "luvas de pelica"), o decalque passivo de fórmulas e jargões estrangeiros, a caricatura mecânica de métodos e estilos, a inadequação de registro ao gênero e o excesso descritivo de minúcias secundárias.
+- [`references/livros/vieira-sermao-da-sexagesima.md`](references/livros/vieira-sermao-da-sexagesima.md): Padre António Vieira, *Sermão da Sexagésima* (1655; edição coletada, 11 pp.). Tratado clássico de composição e retórica. Sinaliza a oratória sacra barroca como registro histórico e extrai regras modernas: unidade rigorosa de assunto ("um só tronco, uma só matéria"), rejeição a simetrias e antíteses mecânicas ("xadrez de palavras"), clareza sem rebaixamento de rigor ("estrelas muito distintas e altíssimas"), condenação de perífrases pedantes ("desbaptizados os santos"), defesa do raciocínio próprio contra a recitação mecânica de autoridades e substituição de verbos inflados e metáforas ocas por ações substantivas.
+
