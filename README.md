@@ -103,3 +103,8 @@ runtime.
 
 Distribuída sob MIT. As fontes e atribuições estão em
 [`SOURCES.md`](SOURCES.md).
+
+### Referências do lote C — livros do Domínio Público (codex)
+
+- [Páginas críticas e comemorativas](references/livros/machado-paginas-criticas-e-comemorativas.md), de Machado de Assis: descrição, fala de personagem e observação concreta.
+- [Arte Poética](references/livros/aristoteles-arte-poetica.md), de Aristóteles: adaptações sobre unidade, função das partes e clareza. A obra trata de poesia e tragédia gregas, não de português brasileiro.
