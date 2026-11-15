@@ -133,3 +133,15 @@ Oito fichas em [`references/livros/`](references/livros/), com citações confer
 - [História da literatura brasileira: Fatores](references/livros/romero-historia-da-literatura-brasileira-fatores.md) (Sílvio Romero)
 
 Tabela completa e URLs em [`SOURCES.md`](SOURCES.md).
+
+### Fontes modernas (codex, rodada 3)
+
+Cinco fichas em [`references/fontes-modernas/`](references/fontes-modernas/) reúnem sínteses, regras de edição e exemplos próprios, com referências e informações de acesso:
+
+- [Paloma Destro: UX writing e linguagem simples](references/fontes-modernas/destro-ux-writing-linguagem-simples.md), UX Collective Brasil, 2023.
+- [Cadu Carvalho: linguagem simples](references/fontes-modernas/carvalho-tipo-aquilo-linguagem-simples.md), newsletter Tipo Aquilo, 2024.
+- [Thalita Gonçalves: escrita e fala](references/fontes-modernas/goncalves-escrever-como-fala.md), banQi no Medium, 2022.
+- [Prefeitura de Belo Horizonte: boas práticas de edição](references/fontes-modernas/pbh-boas-praticas-linguagem-simples.md), página criada em 2021 e atualizada em 2025.
+- [LAB.ges: Guia de Comunicação Cidadã](references/fontes-modernas/labges-guia-comunicacao-cidada.md), desenvolvido em 2023 para o Governo do Espírito Santo.
+
+As fontes e seus links também constam em [`SOURCES.md`](SOURCES.md).

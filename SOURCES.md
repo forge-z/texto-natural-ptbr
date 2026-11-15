@@ -25,3 +25,12 @@ Obras em domínio público de autores brasileiros que escrevem sobre estilo, cr�
 | Sílvio Romero, *História da literatura brasileira: Fatores* (1888) | [bn000117.pdf](https://web.archive.org/web/20131106072636id_/http://www.dominiopublico.gov.br/download/texto/bn000117.pdf) | [ficha](references/livros/romero-historia-da-literatura-brasileira-fatores.md) |
 
 Consulta da obra no acervo: [PesquisaObraForm.jsp](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp).
+## Fontes modernas (codex, rodada 3)
+
+Fontes abertas consultadas em 15/11/2026 (America/Sao_Paulo). As fichas contêm sínteses originais, regras e exemplos próprios; não reproduzem as obras integralmente.
+
+- Paloma Destro. “UX Writing e linguagem simples: a união perfeita”. UX Collective Brasil, 23/01/2023. https://brasil.uxdesign.cc/ux-writing-e-linguagem-simples-a-uniao-perfeita-201759d28722. [Ficha](references/fontes-modernas/destro-ux-writing-linguagem-simples.md).
+- Cadu Carvalho. “Tipo Aquilo #91 – Linguagem simples”. Tipo Aquilo, 28/11/2024. https://tipoaquilo.substack.com/p/tipo-aquilo-91-linguagem-simples. [Ficha](references/fontes-modernas/carvalho-tipo-aquilo-linguagem-simples.md).
+- Thalita Gonçalves. “A gente pode escrever do jeito que a gente fala?”. banQi, Medium, 09/08/2022. https://medium.com/banqi-design-team/a-gente-pode-escrever-do-jeito-que-a-gente-fala-c70655c1c6f0. [Ficha](references/fontes-modernas/goncalves-escrever-como-fala.md).
+- Prefeitura de Belo Horizonte. “Boas práticas para edição - linguagem simples”. Criada em 10/03/2021, atualizada em 17/10/2025. https://prefeitura.pbh.gov.br/comunicacao/portal-pbh-boas-praticas-para-edicao-linguagem-simples. [Ficha](references/fontes-modernas/pbh-boas-praticas-linguagem-simples.md).
+- Victoria Pianca; LAB.ges. “Guia de Comunicação Cidadã”. Governo do Espírito Santo, desenvolvido em 2023; página sem data de publicação informada. https://comunicacaocidada.es.gov.br/guia-completo/. [Ficha](references/fontes-modernas/labges-guia-comunicacao-cidada.md).
