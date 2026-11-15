@@ -8,3 +8,10 @@ Esta skill é uma adaptação original para português brasileiro baseada em pri
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd/blob/main/skills/i-have-adhd/SKILL.md), de ayghri, licença MIT. Consultado em 13 de agosto de 2026 e de novo em 10 de setembro de 2026 (`0249c455764f503f60d4ee0242cf4188b22df913`), reconsultado em 28 de setembro de 2026 (`839872f9d1cd634fed642b4589ce7226199cc15f`), em 12 de outubro de 2026 (`1ecea1993b7fce257ffbd686c070948b5e07eda6`), em 31 de outubro de 2026 e em 9 de novembro de 2026. O `main` continua em `1ecea1993b7fce257ffbd686c070948b5e07eda6`. Suas práticas de ação imediata, passos curtos, estado visível e revisão sem preâmbulo inspiraram o fluxo desta skill. Os limites fixos de listas e tempo, inclusive a meta posterior de cinco itens por grupo e a retenção dos itens excedentes até pedido ou necessidade, foram deixados de fora para respeitar o pedido e o conteúdo.
 
 A adaptação reorganiza os fluxos, combina os critérios compatíveis e substitui exemplos e construções do inglês por padrões recorrentes do português brasileiro. A contribuição de `i-have-adhd` trata da forma de conduzir a edição e não altera os critérios linguísticos. Esta skill não funciona como detector de autoria.
+
+## Lote A — livros do Domínio Público (cloud agent)
+
+- José de Alencar, *Ao correr da pena* (crônicas, 1854–1855). PDF Wayback: `https://web.archive.org/web/20091224135305id_/http://www.dominiopublico.gov.br/download/texto/bv000130.pdf`. Resumo editável em [`references/livros/alencar-ao-correr-da-pena.md`](references/livros/alencar-ao-correr-da-pena.md).
+- Joaquim Nabuco, *Camões* (discurso, 1880). PDF Wayback: `https://web.archive.org/web/20080920153449id_/http://www.dominiopublico.gov.br/download/texto/bn000041.pdf`. Resumo editável em [`references/livros/nabuco-camoes.md`](references/livros/nabuco-camoes.md).
+
+Os PDFs não estão no repositório; as regras foram extraídas com `pdftotext` do PDF do Wayback e adaptadas a exemplos em pt-BR atual. Grafia e sintaxe arcaicas do século XIX aparecem só nas citações.

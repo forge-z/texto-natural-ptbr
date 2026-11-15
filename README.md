@@ -103,3 +103,12 @@ runtime.
 
 Distribuída sob MIT. As fontes e atribuições estão em
 [`SOURCES.md`](SOURCES.md).
+
+### Referências do lote A — livros do Domínio Público (cloud agent)
+
+Dois textos do acervo do [Domínio Público](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp), baixados pelo Wayback e lidos com `pdftotext`, viraram fichas em `references/livros/`:
+
+- [`alencar-ao-correr-da-pena.md`](references/livros/alencar-ao-correr-da-pena.md) — José de Alencar, *Ao correr da pena*: contrato de leitura leve, palavra e registro, retomada após digressão, título, calibragem de tom, fórmulas ocas e lições de concisão retórica (sem enredo das crônicas).
+- [`nabuco-camoes.md`](references/livros/nabuco-camoes.md) — Joaquim Nabuco, *Camões*: conclusão de obra, revisão que mata espontaneidade, acúmulo ornamental, fechamento de argumento e uso funcional de citação (patriotismo do discurso só como contexto).
+
+Detalhes de URL e atribuição na seção homônima de [`SOURCES.md`](SOURCES.md). Proposta de novas entradas no `SKILL.md` fica na descrição do PR deste lote; versão do skill permanece em 1.6.2 até consolidação dos lotes A/B/C.
