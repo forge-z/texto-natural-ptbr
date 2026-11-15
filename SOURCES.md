@@ -25,3 +25,17 @@ Obras em domínio público de autores brasileiros que escrevem sobre estilo, cr�
 | Sílvio Romero, *História da literatura brasileira: Fatores* (1888) | [bn000117.pdf](https://web.archive.org/web/20131106072636id_/http://www.dominiopublico.gov.br/download/texto/bn000117.pdf) | [ficha](references/livros/romero-historia-da-literatura-brasileira-fatores.md) |
 
 Consulta da obra no acervo: [PesquisaObraForm.jsp](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp).
+
+
+## Fontes modernas (agy, rodada 3)
+
+Fichas de livros contemporâneos e textos da imprensa brasileira recente (2019 em diante) sobre escrita, estilo, redação, linguagem simples e usabilidade de texto em português brasileiro. Fontes abertas e conferidas em 15 de novembro de 2026. Índice e fichas em [`references/fontes-modernas/`](references/fontes-modernas/).
+
+| Obra / Artigo | Veículo / Editora | Ano | Wayback (consultado) | Ficha |
+| --- | --- | --- | --- | --- |
+| Sérgio Rodrigues, *Escrever é humano: Como dar vida à sua escrita em tempo de robôs* | Companhia das Letras | 2025 | [wayback](https://web.archive.org/web/20261115154528/https://www.companhiadasletras.com.br/9788535941678-escrever-e-humano-2760/p) | [ficha](references/fontes-modernas/rodrigues-escrever-e-humano.md) |
+| Luiz Antonio de Assis Brasil, *Escrever ficção: Um manual de criação literária* | Companhia das Letras | 2019 | [wayback](http://web.archive.org/web/20260518190949/https://www.companhiadasletras.com.br/livro/9788535932072/escrever-ficcao) | [ficha](references/fontes-modernas/assis-brasil-escrever-ficcao.md) |
+| Bruno Rodrigues, *Em busca de boas práticas de UX Writing* | Edição do autor / Amazon | 2019 | [wayback](http://web.archive.org/web/20261019170829/https://brunorodrigues.co/) | [ficha](references/fontes-modernas/rodrigues-ux-writing.md) |
+| Ruy Castro, "Escrever bem" | *Folha de S.Paulo* | 2023 | [wayback](http://web.archive.org/web/20240105214928/https://www1.folha.uol.com.br/colunas/ruycastro/2023/09/escrever-bem.shtml) | [ficha](references/fontes-modernas/castro-escrever-bem.md) |
+| Patricia Roedel, "Para bom entendedor, meia palavra não basta" | Revista *piauí* | 2025 | [wayback](http://web.archive.org/web/20260514161011/https://piaui.uol.com.br/web/para-bom-entendedor-meia-palavra-nao-basta/) | [ficha](references/fontes-modernas/roedel-meia-palavra.md) |
+| Sérgio Rodrigues, "Os clichês da língua são como os gatos, têm sete vidas" | *Folha de S.Paulo* | 2023 | [wayback](http://web.archive.org/web/20251108125018/https://www1.folha.uol.com.br/colunas/sergio-rodrigues/2023/02/os-cliches-da-lingua-sao-como-os-gatos-tem-sete-vidas.shtml) | [ficha](references/fontes-modernas/rodrigues-cliches-da-lingua.md) |

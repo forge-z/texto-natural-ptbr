@@ -133,3 +133,17 @@ Oito fichas em [`references/livros/`](references/livros/), com citações confer
 - [História da literatura brasileira: Fatores](references/livros/romero-historia-da-literatura-brasileira-fatores.md) (Sílvio Romero)
 
 Tabela completa e URLs em [`SOURCES.md`](SOURCES.md).
+
+
+### Fontes modernas (agy, rodada 3)
+
+Seis fichas em [`references/fontes-modernas/`](references/fontes-modernas/), com livros contemporâneos e textos da imprensa brasileira (2019 em diante) sobre estilo, redação, linguagem simples e usabilidade de texto, com referências conferidas e exemplos Antes/Depois em pt-BR atual:
+
+- [Escrever é humano](references/fontes-modernas/rodrigues-escrever-e-humano.md) (Sérgio Rodrigues, 2025)
+- [Escrever ficção](references/fontes-modernas/assis-brasil-escrever-ficcao.md) (Luiz Antonio de Assis Brasil, 2019)
+- [Em busca de boas práticas de UX Writing](references/fontes-modernas/rodrigues-ux-writing.md) (Bruno Rodrigues, 2019)
+- [Escrever bem](references/fontes-modernas/castro-escrever-bem.md) (Ruy Castro, *Folha de S.Paulo*, 2023)
+- [Para bom entendedor, meia palavra não basta](references/fontes-modernas/roedel-meia-palavra.md) (Patricia Roedel, Revista *piauí*, 2025)
+- [Os clichês da língua são como os gatos, têm sete vidas](references/fontes-modernas/rodrigues-cliches-da-lingua.md) (Sérgio Rodrigues, *Folha de S.Paulo*, 2023)
+
+Tabela completa e links em [`SOURCES.md`](SOURCES.md).
