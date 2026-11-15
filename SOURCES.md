@@ -25,3 +25,21 @@ Obras em domínio público de autores brasileiros que escrevem sobre estilo, cr�
 | Sílvio Romero, *História da literatura brasileira: Fatores* (1888) | [bn000117.pdf](https://web.archive.org/web/20131106072636id_/http://www.dominiopublico.gov.br/download/texto/bn000117.pdf) | [ficha](references/livros/romero-historia-da-literatura-brasileira-fatores.md) |
 
 Consulta da obra no acervo: [PesquisaObraForm.jsp](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp).
+
+## Fontes modernas
+
+Fichas de fontes abertas brasileiras (2019–2025 e guias públicos), consultadas em 15 de novembro de 2026. Sínteses e exemplos próprios; não há reprodução integral. Índice em [references/fontes-modernas/README.md](references/fontes-modernas/README.md). Três fichas de livro usam apenas a página da editora ou do autor.
+
+| Obra / artigo | Veículo / instituição | Ano | Wayback (quando houver) | Ficha |
+| --- | --- | --- | --- | --- |
+| Paloma Destro, «UX Writing e linguagem simples: a união perfeita» | UX Collective Brasil | 2023 | — (sem snapshot indexado) | [ficha](references/fontes-modernas/destro-ux-writing-linguagem-simples.md) |
+| Cadu Carvalho, «Tipo Aquilo #91 – Linguagem simples» | Tipo Aquilo (Substack) | 2024 | [snapshot](https://web.archive.org/web/20250215151249/https://tipoaquilo.substack.com/p/tipo-aquilo-91-linguagem-simples) | [ficha](references/fontes-modernas/carvalho-tipo-aquilo-linguagem-simples.md) |
+| Thalita Gonçalves, «A gente pode escrever do jeito que a gente fala?» | banQi / Medium | 2022 | — (sem snapshot indexado) | [ficha](references/fontes-modernas/goncalves-escrever-como-fala.md) |
+| Prefeitura de Belo Horizonte, «Boas práticas para edição - linguagem simples» | Portal PBH | 2021 (atual. 2025) | [snapshot](https://web.archive.org/web/20240526183711/https://prefeitura.pbh.gov.br/comunicacao/portal-pbh-boas-praticas-para-edicao-linguagem-simples) | [ficha](references/fontes-modernas/pbh-boas-praticas-linguagem-simples.md) |
+| Victoria Pianca et al., «Guia de Comunicação Cidadã» | LAB.ges / Governo do ES | 2023 | [snapshot](https://web.archive.org/web/20260514113209/https://comunicacaocidada.es.gov.br/guia-completo/) | [ficha](references/fontes-modernas/labges-guia-comunicacao-cidada.md) |
+| Sérgio Rodrigues, *Escrever é humano* | Companhia das Letras | 2025 | [snapshot](https://web.archive.org/web/20261115154528/https://www.companhiadasletras.com.br/9788535941678-escrever-e-humano-2760/p) | [ficha](references/fontes-modernas/rodrigues-escrever-e-humano.md) |
+| Luiz Antonio de Assis Brasil, *Escrever ficção* | Companhia das Letras | 2019 | [snapshot](http://web.archive.org/web/20260518190949/https://www.companhiadasletras.com.br/livro/9788535932072/escrever-ficcao) | [ficha](references/fontes-modernas/assis-brasil-escrever-ficcao.md) |
+| Bruno Rodrigues, *Em busca de boas práticas de UX Writing* | Página do autor | 2019 | [snapshot](http://web.archive.org/web/20261019170829/https://brunorodrigues.co/) | [ficha](references/fontes-modernas/rodrigues-ux-writing.md) |
+| Ruy Castro, «Escrever bem» | *Folha de S.Paulo* | 2023 | [snapshot](http://web.archive.org/web/20240105214928/https://www1.folha.uol.com.br/colunas/ruycastro/2023/09/escrever-bem.shtml) | [ficha](references/fontes-modernas/castro-escrever-bem.md) |
+| Patricia Roedel, «Para bom entendedor, meia palavra não basta» | Revista *piauí* | 2025 | [snapshot](http://web.archive.org/web/20260514161011/https://piaui.uol.com.br/web/para-bom-entendedor-meia-palavra-nao-basta/) | [ficha](references/fontes-modernas/roedel-meia-palavra.md) |
+| Sérgio Rodrigues, «Os clichês da língua são como os gatos, têm sete vidas» | *Folha de S.Paulo* | 2023 | [snapshot](http://web.archive.org/web/20251108125018/https://www1.folha.uol.com.br/colunas/sergio-rodrigues/2023/02/os-cliches-da-lingua-sao-como-os-gatos-tem-sete-vidas.shtml) | [ficha](references/fontes-modernas/rodrigues-cliches-da-lingua.md) |

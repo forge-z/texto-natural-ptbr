@@ -7,7 +7,7 @@ A edição começa pela entrega e respeita o pedido de tom, extensão e formato.
 Os exemplos mostram como reduzir excessos sem inventar fatos, apagar ressalvas
 ou transformar informação limitada em certeza.
 
-Versão atual da skill: **1.8.0** (campo `version` em [`SKILL.md`](SKILL.md)).
+Versão atual da skill: **1.9.0** (campo `version` em [`SKILL.md`](SKILL.md)).
 
 ## Estrutura do repositório
 
@@ -18,7 +18,9 @@ Versão atual da skill: **1.8.0** (campo `version` em [`SKILL.md`](SKILL.md)).
 | [`references/avaliacao.md`](references/avaliacao.md) | Checklist e regressões por modo |
 | [`references/exemplos.md`](references/exemplos.md) | Entradas e saídas de calibração |
 | [`references/livros/`](references/livros/) | Fichas do Domínio Público (consulta opcional; ver [`README`](references/livros/README.md)) |
+| [`references/fontes-modernas/`](references/fontes-modernas/) | Imprensa, guias, UX writing e livros recentes (consulta opcional; ver [`README`](references/fontes-modernas/README.md)) |
 | [`SOURCES.md`](SOURCES.md) | Atribuição e URLs das fontes |
+| [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões da skill |
 
 ## O que faz
 
@@ -71,6 +73,9 @@ As referências em [`references/`](references/) fazem parte do trabalho:
   nos modos editar, reescrever e detectar. Consulta opcional.
 - [`livros/`](references/livros/) reúne oito obras de autores brasileiros com regras
   adaptadas à prosa atual. Consulta opcional após `padroes-ptbr.md`.
+- [`fontes-modernas/`](references/fontes-modernas/) reúne onze fichas de linguagem
+  simples, UX writing, imprensa e três livros com ficha só da editora/autor. Consulta
+  opcional após `padroes-ptbr.md`.
 
 A regra principal é simples: especificidade deve vir do original ou do
 contexto fornecido pelo usuário. Se faltar um detalhe, preserve uma versão
@@ -132,4 +137,20 @@ Oito fichas em [`references/livros/`](references/livros/), com citações confer
 - [Ironia e piedade](references/livros/bilac-ironia-e-piedade.md) (Olavo Bilac)
 - [História da literatura brasileira: Fatores](references/livros/romero-historia-da-literatura-brasileira-fatores.md) (Sílvio Romero)
 
-Tabela completa e URLs em [`SOURCES.md`](SOURCES.md).
+### Fontes modernas
+
+Onze fichas em [`references/fontes-modernas/`](references/fontes-modernas/), conferidas em 15/11/2026. Índice em [`references/fontes-modernas/README.md`](references/fontes-modernas/README.md):
+
+- [UX writing e linguagem simples](references/fontes-modernas/destro-ux-writing-linguagem-simples.md) (Paloma Destro, 2023)
+- [Linguagem simples](references/fontes-modernas/carvalho-tipo-aquilo-linguagem-simples.md) (Cadu Carvalho, 2024)
+- [Escrita e fala](references/fontes-modernas/goncalves-escrever-como-fala.md) (Thalita Gonçalves, 2022)
+- [Boas práticas PBH](references/fontes-modernas/pbh-boas-praticas-linguagem-simples.md) (Prefeitura de BH, 2021–2025)
+- [Guia Comunicação Cidadã](references/fontes-modernas/labges-guia-comunicacao-cidada.md) (LAB.ges / ES, 2023)
+- [Escrever é humano](references/fontes-modernas/rodrigues-escrever-e-humano.md) (Sérgio Rodrigues, 2025 — ficha da editora)
+- [Escrever ficção](references/fontes-modernas/assis-brasil-escrever-ficcao.md) (Luiz Antonio de Assis Brasil, 2019 — ficha da editora)
+- [UX Writing](references/fontes-modernas/rodrigues-ux-writing.md) (Bruno Rodrigues, 2019 — página do autor)
+- [Escrever bem](references/fontes-modernas/castro-escrever-bem.md) (Ruy Castro, *Folha*, 2023)
+- [Meia palavra](references/fontes-modernas/roedel-meia-palavra.md) (Patricia Roedel, *piauí*, 2025)
+- [Clichês da língua](references/fontes-modernas/rodrigues-cliches-da-lingua.md) (Sérgio Rodrigues, *Folha*, 2023)
+
+Tabelas e URLs em [`SOURCES.md`](SOURCES.md).
