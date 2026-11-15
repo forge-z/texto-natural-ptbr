@@ -132,3 +132,10 @@ Seis fichas em [`references/livros/`](references/livros/), com citações confer
 - [Arte Poética](references/livros/aristoteles-arte-poetica.md) (Aristóteles; adaptação à prosa, não prescrição literária)
 
 URLs e atribuição em [`SOURCES.md`](SOURCES.md).
+
+### Referências do lote C2 — livros do Domínio Público (codex)
+
+- [O cônego ou Metafísica do estilo](references/livros/machado-o-conego-ou-metafisica-do-estilo.md), de Machado de Assis: escolha de palavras e releitura.
+- [Ironia e piedade](references/livros/bilac-ironia-e-piedade.md), de Olavo Bilac: função do ornamento e crítica de linguagem sem ataque pessoal.
+
+As fichas adaptam passagens à prosa brasileira atual e identificam as edições consultadas. URLs e atribuição estão em [`SOURCES.md`](SOURCES.md).

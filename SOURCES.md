@@ -23,3 +23,8 @@ Obras em domínio público, lidas via PDF do Wayback (`pdftotext`), com regras a
 | Aristóteles, *Arte Poética* (séc. IV a.C.) | [cv000005.pdf](https://web.archive.org/web/20090831092910id_/http://www.dominiopublico.gov.br/download/texto/cv000005.pdf) | [ficha](references/livros/aristoteles-arte-poetica.md) |
 
 Consulta da obra no acervo: [PesquisaObraForm.jsp](https://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp).
+
+## Lote C2 — livros do Domínio Público (codex)
+
+- Machado de Assis, *O cônego ou Metafísica do estilo* (1885): [obra](https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1983), [PDF oficial](https://www.dominiopublico.gov.br/download/texto/bv000272.pdf), [Wayback](https://web.archive.org/web/20131106023715id_/http://www.dominiopublico.gov.br/download/texto/bv000272.pdf) e [ficha](references/livros/machado-o-conego-ou-metafisica-do-estilo.md). Texto conferido na cópia local da edição UNAMA/NEAD.
+- Olavo Bilac, *Ironia e piedade* (1916): [obra](https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=43441), [PDF oficial](https://www.dominiopublico.gov.br/download/texto/ub000044.pdf), [Wayback](https://web.archive.org/web/20120129171421id_/http://www.dominiopublico.gov.br/download/texto/ub000044.pdf) e [ficha](references/livros/bilac-ironia-e-piedade.md). Texto conferido na cópia local da edição de 1916 da Biblioteca Brasiliana USP; o PDF oficial não tem camada de texto.
